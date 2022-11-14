@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap');
+html,
+.App,
+body,
+#root {
+    height: 100vh;
+    width: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.App {
+    display: flex;
+    position: relative;
+}
+.logo {
+    height: 64px;
+    width: auto;
+}
+.sidebar-open-logo {
+    align-items: center;
+    padding-left: 15px;
+    padding-bottom: 16px;
+    display: flex;
+    min-width: 248px;
+}
+.sidebar-closed-logo {
+    align-items: center;
+    padding-bottom: 16px;
+    display: flex;
+}
+.sidebar-open {
+    width: 248px;
+    height: 100vh;
+    padding: 8px;
+}
+.sidebar-closed {
+    width: 80px;
+    height: 100vh;
+    padding: 8px;
+}
