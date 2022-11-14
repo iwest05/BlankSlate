@@ -16,7 +16,7 @@ const Header = ({ onMenuCollapse, open }: Props) => {
    const theme = useTheme();
 
    const iconBackColorOpen = theme.palette.mode === 'dark' ? 'grey.600' : 'grey.400';
-   const iconBackColor = theme.palette.mode === 'dark' ? 'background.default' : 'grey.900';
+   const iconBackColor = theme.palette.mode === 'dark' ? 'background.default' : 'grey.200';
    return (
       <Box
          display={'flex'}
@@ -37,7 +37,7 @@ const Header = ({ onMenuCollapse, open }: Props) => {
                   fontWeight: '400',
                   padding: 1.3,
                   bgcolor: open ? iconBackColorOpen : iconBackColor,
-                  color: 'grey.200',
+                  color: theme.palette.mode === 'dark' ? 'grey.200': 'secondary.main',
                   '&:hover': {
                      bgcolor: 'grey.500',
                   },
