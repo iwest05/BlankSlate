@@ -1,30 +1,44 @@
-import { useState } from 'react';
+import { useState, Suspense } from 'react';
 import Header from '../global/Header/Header';
 import Sidebar from '../global/Sidebar/Sidebar';
-import { Box } from '@mui/material';
+import { Box, Container } from '@mui/material';
+import { Outlet } from 'react-router-dom';
+import { ErrorBoundary } from 'react-error-boundary';
 
 const MainLayout = () => {
-  const [sidebarOpen, setSidebarOpen] = useState(true);
+   const [sidebarOpen, setSidebarOpen] = useState(true);
 
-  const handleMenuChange = () => {
-    setSidebarOpen((s) => !s);
-  };
+   const handleMenuChange = () => {
+      setSidebarOpen((s) => !s);
+   };
+   const mainWidth = sidebarOpen ? 'calc(100% - 248px)' : 'calc(100% - 80px)';
+   return (
+      <Box display={'flex'}>
+         <Header onMenuCollapse={handleMenuChange} open={sidebarOpen} />
+         <Sidebar open={sidebarOpen} />
 
-  return (
-    <>
-      <Box position={'fixed'} display={'flex'} width={'100%'}>
-        <Sidebar open={sidebarOpen} />
-        <Header onMenuCollapse={handleMenuChange} open={sidebarOpen}/>
+         <>
+            <Box component={'main'} sx={{ bgcolor: 'background.default', width: mainWidth, p: '24px' }}>
+               <ErrorBoundary fallback={<div>Could Not Fetch Data</div>}>
+                  <Suspense fallback={<div>Loading...</div>}>
+                     <Container
+                        maxWidth={'lg'}
+                        sx={{
+                           position: 'relative',
+                           pt: '100px',
+                           height: '100vh',
+                           display: 'flex',
+                           flexDirection: 'column',
+                        }}
+                     >
+                        <Outlet />
+                     </Container>
+                  </Suspense>
+               </ErrorBoundary>
+            </Box>
+         </>
       </Box>
-      <>
-        <div className={sidebarOpen ? 'body' : 'bodyclose'}>
-          {/*<Box sx={{ bgcolor: 'rgb(18, 18, 18)', height: '500in' }}>
-            <Outlet />
-          </Box>*/}
-        </div>
-      </>
-    </>
-  );
+   );
 };
 
 export default MainLayout;

@@ -1,11 +1,6 @@
-import { Box, IconButton, useTheme } from '@mui/material';
+import { Box, useTheme } from '@mui/material';
 import React from 'react';
-
-import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
-
-import { AiOutlineMenuUnfold, AiOutlineMenuFold } from 'react-icons/ai';
-
-import Search from './components/Search';
+import ToggleSidebar from './components/ToggleSidebar';
 
 type Props = {
    onMenuCollapse: () => void;
@@ -15,60 +10,26 @@ type Props = {
 const Header = ({ onMenuCollapse, open }: Props) => {
    const theme = useTheme();
 
-   const iconBackColorOpen = theme.palette.mode === 'dark' ? 'grey.600' : 'grey.400';
-   const iconBackColor = theme.palette.mode === 'dark' ? 'background.default' : 'grey.200';
+   const headerWidth = open ? 'calc(100% - 248px)' : 'calc(100% - 80px)';
    return (
       <Box
          display={'flex'}
+         component={'header'}
+         position={'fixed'}
+         left={'auto'}
+         right={'0px'}
          pt={2.4}
          pb={2.4}
          pl={1.4}
          pr={1.4}
          justifyContent={'space-between'}
          bgcolor={'background.paper'}
-         sx={{ width: '100%', height: 74, borderBottom: `1px solid ${theme.palette.divider}` }}
+         zIndex={'1201'}
+         sx={{ height: 74, borderBottom: `1px solid ${theme.palette.divider}`, width: headerWidth }}
       >
-         <Box display={'flex'} alignItems={'center'} sx={{ gap: 1 }}>
-            <IconButton
-               onClick={onMenuCollapse}
-               sx={{
-                  borderRadius: 1,
-                  fontSize: '1.1rem',
-                  fontWeight: '400',
-                  padding: 1.3,
-                  bgcolor: open ? iconBackColorOpen : iconBackColor,
-                  color: theme.palette.mode === 'dark' ? 'grey.200': 'secondary.main',
-                  '&:hover': {
-                     bgcolor: 'grey.500',
-                  },
-               }}
-            >
-               {!onMenuCollapse ? <AiOutlineMenuUnfold /> : <AiOutlineMenuFold />}
-            </IconButton>
-            <Search />
-         </Box>
-         <Box display={'flex'} pr={20}>
-            <Box>
-               <IconButton
-                  onClick={() => alert('clicked')}
-                  sx={{
-                     bgcolor: '#121212',
-
-                     borderRadius: 1,
-                     '&:hover': {
-                        bgcolor: 'rgb(140, 140, 140)',
-                     },
-                  }}
-               >
-                  <SettingsOutlinedIcon
-                     fontSize={'small'}
-                     sx={{
-                        color: 'rgb(215, 215, 215)',
-                     }}
-                  />
-               </IconButton>
-            </Box>
-         </Box>
+         <>
+            <ToggleSidebar onMenuCollapse={onMenuCollapse} open={open} />
+         </>
       </Box>
    );
 };

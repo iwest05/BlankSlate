@@ -1,4 +1,4 @@
-import { List, ListItemButton, useTheme } from '@mui/material';
+import { List, ListItemButton } from '@mui/material';
 import { FC, PropsWithChildren } from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';

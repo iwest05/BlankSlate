@@ -1,4 +1,4 @@
-import { Box, Collapse, ListItemButton, useTheme } from '@mui/material';
+import { Box, Collapse, ListItemButton } from '@mui/material';
 import React, { ReactElement, useState } from 'react';
 import { MdExpandLess, MdExpandMore } from 'react-icons/md';
 
@@ -9,7 +9,6 @@ type Props = {
 };
 
 const ListSection: React.FC<React.PropsWithChildren<Props>> = ({ title, icon, children, sidebarClosed }) => {
-   const theme = useTheme();
    const [toggleSection, setToggleSection] = useState(false);
    return (
       <>
@@ -34,18 +33,16 @@ const ListSection: React.FC<React.PropsWithChildren<Props>> = ({ title, icon, ch
                      },
                   }}
                >
-                  <Box
-                     alignItems={'center'}
-                     display={'flex'}
-                     margin={0}
-                     position={'relative'}
-                     fontSize={'20px'}
-                  >
+                  <Box alignItems={'center'} display={'flex'} margin={0} position={'relative'} fontSize={'20px'}>
                      {icon}
                   </Box>
                   <>
-                     <Box component="span" padding={'0 15px'} m={0} position={'relative'} fontSize={'1.0rem'} >{title}</Box>
-                     <Box display={'flex'} marginLeft={'auto'} fontSize={'1.5rem'}>{toggleSection ? <MdExpandLess /> : <MdExpandMore />}</Box>
+                     <Box component="span" padding={'0 15px'} m={0} position={'relative'} fontSize={'1.0rem'}>
+                        {title}
+                     </Box>
+                     <Box display={'flex'} marginLeft={'auto'} fontSize={'1.5rem'}>
+                        {toggleSection ? <MdExpandLess /> : <MdExpandMore />}
+                     </Box>
                   </>
                </ListItemButton>
 

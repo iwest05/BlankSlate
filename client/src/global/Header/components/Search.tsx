@@ -13,21 +13,21 @@ const Search = () => {
         bgcolor={'background.paper'}
         width={220}
         sx={{
-          border: `1.5px solid ${theme.palette.secondary.main}`,
+          border: `1.6px solid ${theme.palette.secondary.main}`,
           height: 30,
           '&:hover': {
-            borderColor: '#003A70',
+            borderColor: theme.palette.mode === 'dark' ? 'blue.400' : 'blue.400',
           },
         }}
       >
         <IconButton type={'button'} sx={{ p: 1 }}>
-          <SearchOutlinedIcon sx={{ color: '#D7D7D7', fontSize: 15 }} />
+          <SearchOutlinedIcon sx={{ color: 'secondary.main', fontSize: 15 }} />
         </IconButton>
         <InputBase
           sx={{
             width: 180,
             flex: 1,
-            color: '#D7D7D7',
+            color: 'secondary.main',
             fontSize: 13,
           }}
           placeholder={'Search'}
