@@ -87,7 +87,7 @@ export default function ToggleColorMode({ children }: ThemeCustomizationProps) {
             600: '#757575',
             700: '#616161',
             800: '#424242',
-            900: '#1E1E1E',
+            900: '#1e1e1e',
             A100: '#f5f5f5',
             A200: '#eeeeee',
             A400: '#bdbdbd',
@@ -113,8 +113,8 @@ export default function ToggleColorMode({ children }: ThemeCustomizationProps) {
          },
          divider: mode === 'dark' ? 'rgba(255, 255, 255, 0.05)' : grey[300],
          background: {
-            paper: mode === 'dark' ? '#1E1E1E' : '#FFFFFF',
-            default: mode === 'dark' ? '#121212' : '#fafafb',
+            paper: mode === 'dark' ? '#1e1e1e' : '#fdfdfd',
+            default: mode === 'dark' ? '#121212' : '#f8f8f9',
          },
       },
    });

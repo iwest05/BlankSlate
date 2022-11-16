@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BlankSlate.iml" filepath="$PROJECT_DIR$/.idea/BlankSlate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../multiplethemes/multiplethemes.iml" filepath="$PROJECT_DIR$/../multiplethemes/multiplethemes.iml" />
     </modules>
   </component>
 </project>
