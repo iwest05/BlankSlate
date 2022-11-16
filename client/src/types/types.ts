@@ -1,30 +1,39 @@
-export type CustomShadowProps = {
-  button: string;
-  text: string;
-  z1: string;
-  primary: string;
-  primaryButton: string;
-  secondary: string;
-  secondaryButton: string;
-  error: string;
-  errorButton: string;
-  warning: string;
-  warningButton: string;
-  info: string;
-  infoButton: string;
-  success: string;
-  successButton: string;
-  grey: string;
-  greyButton: string;
-};
+import { ComponentClass, FunctionComponent } from 'react';
+
+// material-ui
+import { SvgIconTypeMap } from '@mui/material';
+import { OverridableComponent } from '@mui/material/OverridableComponent';
 
 export type PresetColor =
-  | 'default'
-  | 'theme1'
-  | 'theme2'
-  | 'theme3'
-  | 'theme4'
-  | 'theme5'
-  | 'theme6'
-  | 'theme7'
-  | 'theme8';
+   | 'default'
+   | 'theme1'
+   | 'theme2'
+   | 'theme3'
+   | 'theme4'
+   | 'theme5'
+   | 'theme6'
+   | 'theme7'
+   | 'theme8';
+
+export type KeyedObject = {
+   [key: string]: string | number | KeyedObject | any;
+};
+
+export type OverrideIcon =
+   | (OverridableComponent<SvgIconTypeMap<{}, 'svg'>> & {
+        muiName: string;
+     })
+   | ComponentClass<any>
+   | FunctionComponent<any>;
+
+export interface GenericCardProps {
+   title?: string;
+   primary?: string | number | undefined;
+   secondary?: string;
+   content?: string;
+   image?: string;
+   dateTime?: string;
+   iconPrimary?: OverrideIcon;
+   color?: string;
+   size?: string;
+}

@@ -18,12 +18,14 @@ const Sidebar = ({ open }: Props) => {
          className={open ? 'sidebar-open' : 'sidebar-closed'}
          bgcolor={'background.paper'}
          display={'flex'}
+         position={'fixed'}
+         zIndex={'1300'}
          flexDirection={'column'}
          justifyContent={'space-between'}
          sx={{ borderRight: `1px solid ${theme.palette.divider}`, padding: '5px' }}
       >
          <Box>
-            <Logo sidebarClosed={!open} />
+            <Logo sidebarClosed={open} />
             <Dashboard open={open} />
             <Analytics open={open} />
             <CustomPrint open={open} />

@@ -9,13 +9,15 @@ type Props = {
 
 const Logo: React.FC<React.PropsWithChildren<Props>> = ({ sidebarClosed }) => {
    return (
-      <Box className={!sidebarClosed ? 'sidebar-open-logo' : 'sidebar-closed-logo'}>
+      <Box className={sidebarClosed ? 'sidebar-open-logo' : 'sidebar-closed-logo'}>
          <IconButton sx={{ height: 63, width: 63 }} aria-label={'logo'}>
             <img className="logo" src={Lion} alt={'lion'} />
          </IconButton>
-         <Typography pl={4} color={'secondary.main'} variant={'h5'} align={'center'} fontWeight={'bold'}>
-            Print Data
-         </Typography>
+         {sidebarClosed && (
+            <Typography pl={4} color={'secondary.main'} variant={'h5'} align={'center'} fontWeight={'bold'}>
+               Print Data
+            </Typography>
+         )}
       </Box>
    );
 };

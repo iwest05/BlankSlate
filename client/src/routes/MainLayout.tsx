@@ -1,7 +1,7 @@
 import { useState, Suspense } from 'react';
 import Header from '../global/Header/Header';
 import Sidebar from '../global/Sidebar/Sidebar';
-import { Box, Container } from '@mui/material';
+import { Box, Container, Toolbar } from '@mui/material';
 import { Outlet } from 'react-router-dom';
 import { ErrorBoundary } from 'react-error-boundary';
 
@@ -18,17 +18,20 @@ const MainLayout = () => {
          <Sidebar open={sidebarOpen} />
 
          <>
-            <Box component={'main'} sx={{ bgcolor: 'background.default', width: mainWidth, p: '24px' }}>
+            <Box
+               component={'main'}
+               sx={{ position: 'absolute', right: '0px', bgcolor: 'background.default', width: mainWidth, p: '24px' }}
+            >
+               <Toolbar />
                <ErrorBoundary fallback={<div>Could Not Fetch Data</div>}>
                   <Suspense fallback={<div>Loading...</div>}>
                      <Container
-                        maxWidth={'lg'}
+                        maxWidth={'xl'}
                         sx={{
-                           position: 'relative',
-                           pt: '100px',
-                           height: '100vh',
+                           pt: '80px',
                            display: 'flex',
                            flexDirection: 'column',
+                           flexGrow: 1,
                         }}
                      >
                         <Outlet />
