@@ -1,7 +1,9 @@
-import React, { ChangeEvent, useEffect, useState } from 'react';
+import { useEffect, useState, ChangeEvent } from 'react';
+
+// material-ui
+import { useTheme } from '@mui/material/styles';
 import {
    Box,
-   Card,
    Checkbox,
    FormControl,
    FormControlLabel,
@@ -9,10 +11,12 @@ import {
    Stack,
    Typography,
    useMediaQuery,
-   useTheme,
 } from '@mui/material';
+
+// third-party
 import ReactApexChart, { Props as ChartProps } from 'react-apexcharts';
 
+// chart options
 const columnChartOptions = {
    chart: {
       type: 'line',
@@ -33,16 +37,18 @@ const columnChartOptions = {
    stroke: {
       show: true,
       width: 8,
-      colors: ['transparent'],
    },
-   xaxis: {
-      categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
-   },
-   yaxis: {
-      title: {
-         text: '$ (thousands)',
+
+   yaxis: [
+      {
+         title: {
+            text: '$ (thousands)',
+         },
       },
-   },
+      {
+         opposite: true,
+      },
+   ],
    fill: {
       opacity: 1,
    },
@@ -68,6 +74,8 @@ const columnChartOptions = {
    ],
 };
 
+// ==============================|| SALES COLUMN CHART ||============================== //
+
 const DashboardCustom = () => {
    const theme = useTheme();
    const mode = theme.palette.mode;
@@ -77,6 +85,8 @@ const DashboardCustom = () => {
       cos: true,
    });
 
+   const { income, cos } = legend;
+
    const { primary, secondary } = theme.palette.text;
    const line = theme.palette.divider;
 
@@ -84,18 +94,16 @@ const DashboardCustom = () => {
    const primaryMain = theme.palette.primary.main;
    const successDark = theme.palette.success.dark;
 
-   const { income, cos } = legend;
-
    const initialSeries = [
       {
-         name: 'Impressions',
+         name: 'Income',
          type: 'bar',
-         data: [69993596, 29230105, 15222927, 14753399],
+         data: [180, 90, 135, 114, 120, 145],
       },
       {
-         name: 'Budget Actual',
+         name: 'Cost Of Sales',
          type: 'line',
-         data: [4761678, 3281068, 3272705, 2838645],
+         data: [120, 45, 78, 150, 168, 99],
       },
    ];
 
@@ -114,17 +122,17 @@ const DashboardCustom = () => {
       } else if (income) {
          setSeries([
             {
-               name: 'Impressions',
+               name: 'Income',
                type: 'bar',
-               data: [69993596, 29230105, 15222927, 14753399],
+               data: [180, 90, 135, 114, 120, 145],
             },
          ]);
       } else if (cos) {
          setSeries([
             {
-               name: 'Budget Actual',
+               name: 'Cost Of Sales',
                type: 'line',
-               data: [4761678, 3281068, 3272705, 2838645],
+               data: [120, 45, 78, 150, 168, 99],
             },
          ]);
       } else {
@@ -138,63 +146,84 @@ const DashboardCustom = () => {
          ...prevState,
          colors: !(income && cos) && cos ? [primaryMain] : [warning, primaryMain],
          xaxis: {
+            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
             labels: {
                style: {
                   colors: [secondary, secondary, secondary, secondary, secondary, secondary],
                },
             },
          },
-         yaxis: {
-            labels: {
-               style: {
-                  colors: [secondary],
+         yaxis: [
+            {
+               labels: {
+                  style: {
+                     colors: [secondary],
+                  },
+                  formatter: function (value: number) {
+                     if (value < 1000) {
+                        return value;
+                     } else if (value > 999) {
+                        return Intl.NumberFormat().format(value / 1000) + 'K';
+                     }
+                  },
                },
             },
-         },
+            {
+               opposite: true,
+               labels: {
+                  style: {
+                     colors: [secondary],
+                  },
+                  formatter: function (value: number) {
+                     if (value < 1000) {
+                        return value;
+                     } else if (value > 999) {
+                        return Intl.NumberFormat().format(value / 1000) + 'K';
+                     }
+                  },
+               },
+            },
+         ],
          grid: {
             borderColor: line,
          },
          tooltip: {
-            theme: theme.palette.mode === 'dark' ? 'dark' : 'light',
+            theme: mode === 'dark' ? 'dark' : 'light',
          },
-         plotOptions: {
+         /*plotOptions: {
             bar: {
                columnWidth: xsDown ? '60%' : '30%',
             },
-         },
+         },*/
       }));
-   }, [mode, primary, secondary, line, warning, successDark, income, cos, xsDown]);
+   }, [mode, primary, secondary, line, warning, primaryMain, successDark, income, cos, xsDown]);
 
    return (
-      <Card variant={'outlined'}>
-         <Box sx={{ p: 2.5, pb: 0 }}>
-            <Stack direction="row" alignItems="center" justifyContent="space-between">
-               <Stack spacing={1.5}>
-                  <Typography variant="h6" color="secondary">
-                     Net Profit
-                  </Typography>
-                  <Typography variant="h4">$1560</Typography>
-               </Stack>
-               <FormControl component="fieldset">
-                  <FormGroup row>
-                     <FormControlLabel
-                        control={
-                           <Checkbox color="warning" checked={income} onChange={handleLegendChange} name="income" />
-                        }
-                        label="Income"
-                     />
-                     <FormControlLabel
-                        control={<Checkbox checked={cos} onChange={handleLegendChange} name="cos" />}
-                        label="Cost of Sales"
-                     />
-                  </FormGroup>
-               </FormControl>
+      <Box sx={{ p: 2.5, pb: 0 }}>
+         <Stack direction="row" alignItems="center" justifyContent="space-between">
+            <Stack spacing={1.5}>
+               <Typography variant="h6" color="secondary">
+                  Net Profit
+               </Typography>
+               <Typography variant="h4">$1560</Typography>
             </Stack>
-            <div id={'chart'}>
-               <ReactApexChart options={options} series={series} type={'line'} height={360} />
-            </div>
-         </Box>
-      </Card>
+            <FormControl component="fieldset">
+               <FormGroup row>
+                  <FormControlLabel
+                     control={<Checkbox color="warning" checked={income} onChange={handleLegendChange} name="income" />}
+                     label="Income"
+                  />
+                  <FormControlLabel
+                     control={<Checkbox checked={cos} onChange={handleLegendChange} name="cos" />}
+                     label="Cost of Sales"
+                  />
+               </FormGroup>
+            </FormControl>
+         </Stack>
+         <div id="chart">
+            <ReactApexChart options={options} series={series} type="line" height={360} />
+         </div>
+      </Box>
    );
 };
 
