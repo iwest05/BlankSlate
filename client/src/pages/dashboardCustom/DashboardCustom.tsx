@@ -1,5 +1,6 @@
 import { useEffect, useState, ChangeEvent } from 'react';
 import cData from '../../data/custom.json';
+import bwPrintData from '../../data/Omaha BW Print.json';
 
 // material-ui
 import { useTheme } from '@mui/material/styles';
