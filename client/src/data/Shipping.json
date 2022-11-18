@@ -1,0 +1,9267 @@
+[
+  {
+    "Date": "08/02/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "23",
+    "HO Deliveries": "4",
+    "End of Day": "25"
+  },
+  {
+    "Date": "08/02/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "37",
+    "Packages": "37",
+    "HO Deliveries": "0",
+    "End of Day": "37"
+  },
+  {
+    "Date": "08/03/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "31",
+    "Packages": "33",
+    "HO Deliveries": "3",
+    "End of Day": "34"
+  },
+  {
+    "Date": "08/03/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "42",
+    "Packages": "48",
+    "HO Deliveries": "1",
+    "End of Day": "43"
+  },
+  {
+    "Date": "08/04/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "36",
+    "HO Deliveries": "11",
+    "End of Day": "43"
+  },
+  {
+    "Date": "08/04/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "35",
+    "Packages": "35",
+    "HO Deliveries": "3",
+    "End of Day": "38"
+  },
+  {
+    "Date": "08/05/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "38",
+    "Packages": "39",
+    "HO Deliveries": "9",
+    "End of Day": "47"
+  },
+  {
+    "Date": "08/05/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "53",
+    "Packages": "58",
+    "HO Deliveries": "3",
+    "End of Day": "56"
+  },
+  {
+    "Date": "08/06/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "17",
+    "End of Day": "32"
+  },
+  {
+    "Date": "08/06/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "21",
+    "HO Deliveries": "0",
+    "End of Day": "21"
+  },
+  {
+    "Date": "08/09/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "72",
+    "End of Day": "91"
+  },
+  {
+    "Date": "08/09/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "28",
+    "Packages": "29",
+    "HO Deliveries": "0",
+    "End of Day": "28"
+  },
+  {
+    "Date": "08/10/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "33",
+    "HO Deliveries": "10",
+    "End of Day": "42"
+  },
+  {
+    "Date": "08/10/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "22",
+    "Packages": "23",
+    "HO Deliveries": "0",
+    "End of Day": "22"
+  },
+  {
+    "Date": "08/10/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "3",
+    "End of Day": "3"
+  },
+  {
+    "Date": "08/11/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "57",
+    "Packages": "58",
+    "HO Deliveries": "14",
+    "End of Day": "71"
+  },
+  {
+    "Date": "08/11/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "29",
+    "Packages": "30",
+    "HO Deliveries": "0",
+    "End of Day": "29"
+  },
+  {
+    "Date": "08/12/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "41",
+    "Packages": "46",
+    "HO Deliveries": "10",
+    "End of Day": "51"
+  },
+  {
+    "Date": "08/12/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "42",
+    "Packages": "44",
+    "HO Deliveries": "2",
+    "End of Day": "44"
+  },
+  {
+    "Date": "08/13/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "17",
+    "Packages": "24",
+    "HO Deliveries": "14",
+    "End of Day": "31"
+  },
+  {
+    "Date": "08/13/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "34",
+    "HO Deliveries": "0",
+    "End of Day": "32"
+  },
+  {
+    "Date": "08/16/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "47",
+    "Packages": "49",
+    "HO Deliveries": "7",
+    "End of Day": "54"
+  },
+  {
+    "Date": "08/16/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "20",
+    "Packages": "20",
+    "HO Deliveries": "0",
+    "End of Day": "20"
+  },
+  {
+    "Date": "08/17/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "55",
+    "Packages": "57",
+    "HO Deliveries": "19",
+    "End of Day": "74"
+  },
+  {
+    "Date": "08/17/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "41",
+    "Packages": "42",
+    "HO Deliveries": "15",
+    "End of Day": "56"
+  },
+  {
+    "Date": "08/18/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "30",
+    "Packages": "36",
+    "HO Deliveries": "45",
+    "End of Day": "75"
+  },
+  {
+    "Date": "08/18/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "48",
+    "Packages": "53",
+    "HO Deliveries": "23",
+    "End of Day": "71"
+  },
+  {
+    "Date": "08/19/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "31",
+    "Packages": "36",
+    "HO Deliveries": "32",
+    "End of Day": "63"
+  },
+  {
+    "Date": "08/19/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "44",
+    "Packages": "44",
+    "HO Deliveries": "2",
+    "End of Day": "46"
+  },
+  {
+    "Date": "08/20/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "28",
+    "Packages": "25",
+    "HO Deliveries": "6",
+    "End of Day": "34"
+  },
+  {
+    "Date": "08/20/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "42",
+    "HO Deliveries": "2",
+    "End of Day": "41"
+  },
+  {
+    "Date": "08/23/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "29",
+    "HO Deliveries": "32",
+    "End of Day": "61"
+  },
+  {
+    "Date": "08/23/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "55",
+    "Packages": "59",
+    "HO Deliveries": "22",
+    "End of Day": "77"
+  },
+  {
+    "Date": "08/24/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "27",
+    "Packages": "34",
+    "HO Deliveries": "6",
+    "End of Day": "33"
+  },
+  {
+    "Date": "08/24/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "9",
+    "Packages": "10",
+    "HO Deliveries": "0",
+    "End of Day": "9"
+  },
+  {
+    "Date": "08/24/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "48",
+    "Packages": "55",
+    "HO Deliveries": "26",
+    "End of Day": "74"
+  },
+  {
+    "Date": "08/25/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "33",
+    "Packages": "37",
+    "HO Deliveries": "10",
+    "End of Day": "43"
+  },
+  {
+    "Date": "08/25/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "31",
+    "Packages": "32",
+    "HO Deliveries": "1",
+    "End of Day": "32"
+  },
+  {
+    "Date": "08/26/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "40",
+    "HO Deliveries": "6",
+    "End of Day": "42"
+  },
+  {
+    "Date": "08/26/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "25",
+    "Packages": "25",
+    "HO Deliveries": "1",
+    "End of Day": "26"
+  },
+  {
+    "Date": "08/27/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "43",
+    "Packages": "45",
+    "HO Deliveries": "10",
+    "End of Day": "53"
+  },
+  {
+    "Date": "08/27/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "35",
+    "Packages": "38",
+    "HO Deliveries": "1",
+    "End of Day": "36"
+  },
+  {
+    "Date": "08/30/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "23",
+    "Packages": "25",
+    "HO Deliveries": "25",
+    "End of Day": "48"
+  },
+  {
+    "Date": "08/30/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "0",
+    "End of Day": "13"
+  },
+  {
+    "Date": "08/30/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "20",
+    "Packages": "20",
+    "HO Deliveries": "5",
+    "End of Day": "25"
+  },
+  {
+    "Date": "08/31/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "31",
+    "Packages": "31",
+    "HO Deliveries": "10",
+    "End of Day": "41"
+  },
+  {
+    "Date": "08/31/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "2",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "08/31/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "35",
+    "Packages": "35",
+    "HO Deliveries": "0",
+    "End of Day": "35"
+  },
+  {
+    "Date": "09/01/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "73",
+    "HO Deliveries": "12",
+    "End of Day": "41"
+  },
+  {
+    "Date": "09/01/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "41",
+    "HO Deliveries": "2",
+    "End of Day": "41"
+  },
+  {
+    "Date": "09/01/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "9",
+    "Packages": "10",
+    "HO Deliveries": "1",
+    "End of Day": "10"
+  },
+  {
+    "Date": "09/02/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "27",
+    "Packages": "28",
+    "HO Deliveries": "2",
+    "End of Day": "29"
+  },
+  {
+    "Date": "09/02/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "52",
+    "Packages": "55",
+    "HO Deliveries": "3",
+    "End of Day": "55"
+  },
+  {
+    "Date": "09/03/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "25",
+    "HO Deliveries": "8",
+    "End of Day": "29"
+  },
+  {
+    "Date": "09/03/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "34",
+    "Packages": "35",
+    "HO Deliveries": "0",
+    "End of Day": "34"
+  },
+  {
+    "Date": "09/07/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "40",
+    "HO Deliveries": "55",
+    "End of Day": "91"
+  },
+  {
+    "Date": "09/07/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "43",
+    "Packages": "43",
+    "HO Deliveries": "2",
+    "End of Day": "45"
+  },
+  {
+    "Date": "09/08/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "20",
+    "Packages": "23",
+    "HO Deliveries": "44",
+    "End of Day": "64"
+  },
+  {
+    "Date": "09/08/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "59",
+    "Packages": "70",
+    "HO Deliveries": "2",
+    "End of Day": "61"
+  },
+  {
+    "Date": "09/09/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "30",
+    "HO Deliveries": "2",
+    "End of Day": "31"
+  },
+  {
+    "Date": "09/09/2021",
+    "Initials": "NN",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "55",
+    "Packages": "58",
+    "HO Deliveries": "2",
+    "End of Day": "57"
+  },
+  {
+    "Date": "09/10/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "58",
+    "Packages": "63",
+    "HO Deliveries": "8",
+    "End of Day": "66"
+  },
+  {
+    "Date": "09/10/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "0",
+    "End of Day": "11"
+  },
+  {
+    "Date": "09/10/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "21",
+    "HO Deliveries": "0",
+    "End of Day": "21"
+  },
+  {
+    "Date": "09/13/2021",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "34",
+    "Packages": "35",
+    "HO Deliveries": "2",
+    "End of Day": "36"
+  },
+  {
+    "Date": "09/13/2021",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "19",
+    "HO Deliveries": "1",
+    "End of Day": "18"
+  },
+  {
+    "Date": "09/13/2021",
+    "Initials": "NS",
+    "Account": "E75807",
+    "Side": "side 1",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "39",
+    "HO Deliveries": "0",
+    "End of Day": "39"
+  },
+  {
+    "Date": "09/14/2021",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "54",
+    "Packages": "58",
+    "HO Deliveries": "6",
+    "End of Day": "60"
+  },
+  {
+    "Date": "09/14/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "0",
+    "End of Day": "13"
+  },
+  {
+    "Date": "09/14/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "26",
+    "HO Deliveries": "6",
+    "End of Day": "29"
+  },
+  {
+    "Date": "09/15/2021",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "35",
+    "Packages": "39",
+    "HO Deliveries": "38",
+    "End of Day": "73"
+  },
+  {
+    "Date": "09/15/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "53",
+    "Packages": "58",
+    "HO Deliveries": "5",
+    "End of Day": "58"
+  },
+  {
+    "Date": "09/16/2021",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "37",
+    "Packages": "38",
+    "HO Deliveries": "49",
+    "End of Day": "86"
+  },
+  {
+    "Date": "09/16/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "46",
+    "Packages": "49",
+    "HO Deliveries": "36",
+    "End of Day": "82"
+  },
+  {
+    "Date": "09/17/2021",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "31",
+    "Packages": "33",
+    "HO Deliveries": "30",
+    "End of Day": "61"
+  },
+  {
+    "Date": "09/17/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "53",
+    "Packages": "53",
+    "HO Deliveries": "38",
+    "End of Day": "91"
+  },
+  {
+    "Date": "09/20/2021",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "43",
+    "Packages": "44",
+    "HO Deliveries": "37",
+    "End of Day": "80"
+  },
+  {
+    "Date": "09/20/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "2",
+    "End of Day": "12"
+  },
+  {
+    "Date": "09/20/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "09/21/2021",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "63",
+    "Packages": "65",
+    "HO Deliveries": "7",
+    "End of Day": "70"
+  },
+  {
+    "Date": "09/21/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "0",
+    "End of Day": "23"
+  },
+  {
+    "Date": "09/22/2021",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "50",
+    "Packages": "57",
+    "HO Deliveries": "32",
+    "End of Day": "82"
+  },
+  {
+    "Date": "09/22/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "50",
+    "Packages": "53",
+    "HO Deliveries": "2",
+    "End of Day": "52"
+  },
+  {
+    "Date": "09/23/2021",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "50",
+    "Packages": "61",
+    "HO Deliveries": "34",
+    "End of Day": "84"
+  },
+  {
+    "Date": "09/23/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "36",
+    "Packages": "40",
+    "HO Deliveries": "0",
+    "End of Day": "36"
+  },
+  {
+    "Date": "09/23/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "5",
+    "HO Deliveries": "2",
+    "End of Day": "6"
+  },
+  {
+    "Date": "09/24/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "52",
+    "Packages": "53",
+    "HO Deliveries": "10",
+    "End of Day": "62"
+  },
+  {
+    "Date": "09/24/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "29",
+    "HO Deliveries": "2",
+    "End of Day": "29"
+  },
+  {
+    "Date": "09/27/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "70",
+    "Packages": "79",
+    "HO Deliveries": "33",
+    "End of Day": "103"
+  },
+  {
+    "Date": "09/27/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "52",
+    "Packages": "59",
+    "HO Deliveries": "7",
+    "End of Day": "59"
+  },
+  {
+    "Date": "09/28/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "91",
+    "Packages": "95",
+    "HO Deliveries": "14",
+    "End of Day": "105"
+  },
+  {
+    "Date": "09/28/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "0",
+    "End of Day": "13"
+  },
+  {
+    "Date": "09/28/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "97",
+    "Packages": "97",
+    "HO Deliveries": "19",
+    "End of Day": "116"
+  },
+  {
+    "Date": "09/29/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "87",
+    "Packages": "91",
+    "HO Deliveries": "13",
+    "End of Day": "100"
+  },
+  {
+    "Date": "09/29/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "124",
+    "Packages": "131",
+    "HO Deliveries": "31",
+    "End of Day": "155"
+  },
+  {
+    "Date": "09/29/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "0",
+    "End of Day": "12"
+  },
+  {
+    "Date": "09/30/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "76",
+    "Packages": "79",
+    "HO Deliveries": "36",
+    "End of Day": "112"
+  },
+  {
+    "Date": "09/30/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "83",
+    "Packages": "86",
+    "HO Deliveries": "3",
+    "End of Day": "86"
+  },
+  {
+    "Date": "10/01/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "51",
+    "Packages": "53",
+    "HO Deliveries": "0",
+    "End of Day": "51"
+  },
+  {
+    "Date": "10/01/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "45",
+    "Packages": "49",
+    "HO Deliveries": "6",
+    "End of Day": "51"
+  },
+  {
+    "Date": "10/01/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "0",
+    "End of Day": "19"
+  },
+  {
+    "Date": "10/01/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "106",
+    "Packages": "109",
+    "HO Deliveries": "0",
+    "End of Day": "106"
+  },
+  {
+    "Date": "10/01/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "0",
+    "End of Day": "19"
+  },
+  {
+    "Date": "10/01/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "61",
+    "Packages": "61",
+    "HO Deliveries": "0",
+    "End of Day": "61"
+  },
+  {
+    "Date": "10/04/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "83",
+    "Packages": "84",
+    "HO Deliveries": "5",
+    "End of Day": "88"
+  },
+  {
+    "Date": "10/04/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "8",
+    "Packages": "8",
+    "HO Deliveries": "0",
+    "End of Day": "8"
+  },
+  {
+    "Date": "10/04/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "132",
+    "Packages": "136",
+    "HO Deliveries": "1",
+    "End of Day": "133"
+  },
+  {
+    "Date": "10/05/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "90",
+    "Packages": "91",
+    "HO Deliveries": "5",
+    "End of Day": "95"
+  },
+  {
+    "Date": "10/05/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "80",
+    "Packages": "84",
+    "HO Deliveries": "2",
+    "End of Day": "82"
+  },
+  {
+    "Date": "10/06/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "124",
+    "Packages": "126",
+    "HO Deliveries": "5",
+    "End of Day": "129"
+  },
+  {
+    "Date": "10/06/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "22",
+    "Packages": "28",
+    "HO Deliveries": "6",
+    "End of Day": "28"
+  },
+  {
+    "Date": "10/07/2021",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "0",
+    "End of Day": "23"
+  },
+  {
+    "Date": "10/07/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "92",
+    "Packages": "103",
+    "HO Deliveries": "5",
+    "End of Day": "97"
+  },
+  {
+    "Date": "10/07/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "0",
+    "End of Day": "27"
+  },
+  {
+    "Date": "10/08/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "132",
+    "Packages": "137",
+    "HO Deliveries": "66",
+    "End of Day": "198"
+  },
+  {
+    "Date": "10/08/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "99",
+    "Packages": "99",
+    "HO Deliveries": "3",
+    "End of Day": "102"
+  },
+  {
+    "Date": "10/08/2021",
+    "Initials": "DL",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "22",
+    "Packages": "22",
+    "HO Deliveries": "0",
+    "End of Day": "22"
+  },
+  {
+    "Date": "10/09/2021",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "90",
+    "Packages": "95",
+    "HO Deliveries": "1",
+    "End of Day": "91"
+  },
+  {
+    "Date": "10/09/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "83",
+    "Packages": "83",
+    "HO Deliveries": "0",
+    "End of Day": "83"
+  },
+  {
+    "Date": "10/11/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "23",
+    "Packages": "31",
+    "HO Deliveries": "26",
+    "End of Day": "49"
+  },
+  {
+    "Date": "10/11/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "6",
+    "HO Deliveries": "2",
+    "End of Day": "8"
+  },
+  {
+    "Date": "10/12/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "62",
+    "Packages": "66",
+    "HO Deliveries": "9",
+    "End of Day": "71"
+  },
+  {
+    "Date": "10/12/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "47",
+    "Packages": "47",
+    "HO Deliveries": "2",
+    "End of Day": "49"
+  },
+  {
+    "Date": "10/13/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "58",
+    "Packages": "60",
+    "HO Deliveries": "5",
+    "End of Day": "63"
+  },
+  {
+    "Date": "10/13/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "82",
+    "Packages": "82",
+    "HO Deliveries": "6",
+    "End of Day": "88"
+  },
+  {
+    "Date": "10/14/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "110",
+    "Packages": "112",
+    "HO Deliveries": "6",
+    "End of Day": "116"
+  },
+  {
+    "Date": "10/14/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "51",
+    "Packages": "54",
+    "HO Deliveries": "7",
+    "End of Day": "58"
+  },
+  {
+    "Date": "10/15/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "47",
+    "Packages": "51",
+    "HO Deliveries": "14",
+    "End of Day": "61"
+  },
+  {
+    "Date": "10/15/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "66",
+    "Packages": "68",
+    "HO Deliveries": "2",
+    "End of Day": "68"
+  },
+  {
+    "Date": "10/16/2021",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "24",
+    "Packages": "28",
+    "HO Deliveries": "0",
+    "End of Day": "24"
+  },
+  {
+    "Date": "10/18/2021",
+    "Initials": "IW",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "78",
+    "Packages": "78",
+    "HO Deliveries": "0",
+    "End of Day": "78"
+  },
+  {
+    "Date": "10/18/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "59",
+    "Packages": "60",
+    "HO Deliveries": "49",
+    "End of Day": "108"
+  },
+  {
+    "Date": "10/18/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "14",
+    "HO Deliveries": "2",
+    "End of Day": "14"
+  },
+  {
+    "Date": "10/19/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "30",
+    "Packages": "30",
+    "HO Deliveries": "15",
+    "End of Day": "45"
+  },
+  {
+    "Date": "10/19/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "8",
+    "HO Deliveries": "0",
+    "End of Day": "6"
+  },
+  {
+    "Date": "10/20/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "18",
+    "Packages": "20",
+    "HO Deliveries": "6",
+    "End of Day": "24"
+  },
+  {
+    "Date": "10/20/2021",
+    "Initials": "IW",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "66",
+    "Packages": "73",
+    "HO Deliveries": "0",
+    "End of Day": "66"
+  },
+  {
+    "Date": "10/20/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "119",
+    "Packages": "123",
+    "HO Deliveries": "5",
+    "End of Day": "124"
+  },
+  {
+    "Date": "10/20/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "10/21/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "77",
+    "Packages": "86",
+    "HO Deliveries": "2",
+    "End of Day": "79"
+  },
+  {
+    "Date": "10/21/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "150",
+    "Packages": "157",
+    "HO Deliveries": "25",
+    "End of Day": "175"
+  },
+  {
+    "Date": "10/21/2021",
+    "Initials": "IW",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "73",
+    "Packages": "74",
+    "HO Deliveries": "0",
+    "End of Day": "73"
+  },
+  {
+    "Date": "10/21/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "41",
+    "HO Deliveries": "1",
+    "End of Day": "41"
+  },
+  {
+    "Date": "10/21/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "0",
+    "End of Day": "23"
+  },
+  {
+    "Date": "10/22/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "144",
+    "Packages": "155",
+    "HO Deliveries": "14",
+    "End of Day": "158"
+  },
+  {
+    "Date": "10/22/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "13",
+    "HO Deliveries": "0",
+    "End of Day": "12"
+  },
+  {
+    "Date": "10/22/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "24",
+    "Packages": "30",
+    "HO Deliveries": "0",
+    "End of Day": "24"
+  },
+  {
+    "Date": "10/25/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "60",
+    "Packages": "60",
+    "HO Deliveries": "1",
+    "End of Day": "61"
+  },
+  {
+    "Date": "10/25/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "0",
+    "End of Day": "11"
+  },
+  {
+    "Date": "10/26/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "67",
+    "Packages": "71",
+    "HO Deliveries": "13",
+    "End of Day": "80"
+  },
+  {
+    "Date": "10/26/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "33",
+    "Packages": "33",
+    "HO Deliveries": "3",
+    "End of Day": "36"
+  },
+  {
+    "Date": "10/27/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "45",
+    "Packages": "47",
+    "HO Deliveries": "12",
+    "End of Day": "57"
+  },
+  {
+    "Date": "10/27/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "70",
+    "Packages": "77",
+    "HO Deliveries": "4",
+    "End of Day": "74"
+  },
+  {
+    "Date": "10/28/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "42",
+    "Packages": "44",
+    "HO Deliveries": "72",
+    "End of Day": "114"
+  },
+  {
+    "Date": "10/28/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "0",
+    "End of Day": "12"
+  },
+  {
+    "Date": "10/28/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "30",
+    "HO Deliveries": "3",
+    "End of Day": "26"
+  },
+  {
+    "Date": "10/29/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "27",
+    "Packages": "29",
+    "HO Deliveries": "10",
+    "End of Day": "37"
+  },
+  {
+    "Date": "10/29/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "0",
+    "End of Day": "11"
+  },
+  {
+    "Date": "10/29/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "34",
+    "Packages": "38",
+    "HO Deliveries": "6",
+    "End of Day": "40"
+  },
+  {
+    "Date": "11/01/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "46",
+    "Packages": "52",
+    "HO Deliveries": "7",
+    "End of Day": "53"
+  },
+  {
+    "Date": "11/01/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "0",
+    "End of Day": "27"
+  },
+  {
+    "Date": "11/01/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "21",
+    "HO Deliveries": "2",
+    "End of Day": "21"
+  },
+  {
+    "Date": "11/02/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "37",
+    "Packages": "43",
+    "HO Deliveries": "4",
+    "End of Day": "41"
+  },
+  {
+    "Date": "11/02/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "29",
+    "HO Deliveries": "7",
+    "End of Day": "23"
+  },
+  {
+    "Date": "11/02/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "24",
+    "Packages": "24",
+    "HO Deliveries": "0",
+    "End of Day": "24"
+  },
+  {
+    "Date": "11/03/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "42",
+    "HO Deliveries": "3",
+    "End of Day": "39"
+  },
+  {
+    "Date": "11/03/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "8",
+    "Packages": "8",
+    "HO Deliveries": "0",
+    "End of Day": "8"
+  },
+  {
+    "Date": "11/03/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "40",
+    "HO Deliveries": "1",
+    "End of Day": "20"
+  },
+  {
+    "Date": "11/03/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "8",
+    "Packages": "8",
+    "HO Deliveries": "0",
+    "End of Day": "8"
+  },
+  {
+    "Date": "11/04/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "41",
+    "Packages": "41",
+    "HO Deliveries": "14",
+    "End of Day": "55"
+  },
+  {
+    "Date": "11/04/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "59",
+    "Packages": "61",
+    "HO Deliveries": "0",
+    "End of Day": "59"
+  },
+  {
+    "Date": "11/05/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "39",
+    "Packages": "44",
+    "HO Deliveries": "3",
+    "End of Day": "42"
+  },
+  {
+    "Date": "11/05/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "0",
+    "End of Day": "27"
+  },
+  {
+    "Date": "11/05/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "2",
+    "Packages": "8",
+    "HO Deliveries": "0",
+    "End of Day": "2"
+  },
+  {
+    "Date": "11/08/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "40",
+    "Packages": "50",
+    "HO Deliveries": "10",
+    "End of Day": "50"
+  },
+  {
+    "Date": "11/08/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "49",
+    "Packages": "54",
+    "HO Deliveries": "4",
+    "End of Day": "53"
+  },
+  {
+    "Date": "11/09/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "38",
+    "HO Deliveries": "2",
+    "End of Day": "38"
+  },
+  {
+    "Date": "11/09/2021",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "15",
+    "End of Day": "28"
+  },
+  {
+    "Date": "11/09/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "6",
+    "HO Deliveries": "0",
+    "End of Day": "6"
+  },
+  {
+    "Date": "11/09/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "46",
+    "Packages": "47",
+    "HO Deliveries": "3",
+    "End of Day": "49"
+  },
+  {
+    "Date": "11/10/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "35",
+    "Packages": "61",
+    "HO Deliveries": "90",
+    "End of Day": "125"
+  },
+  {
+    "Date": "11/10/2021",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "11",
+    "HO Deliveries": "0",
+    "End of Day": "10"
+  },
+  {
+    "Date": "11/10/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "1",
+    "End of Day": "28"
+  },
+  {
+    "Date": "11/11/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "38",
+    "Packages": "47",
+    "HO Deliveries": "25",
+    "End of Day": "63"
+  },
+  {
+    "Date": "11/11/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "1",
+    "End of Day": "24"
+  },
+  {
+    "Date": "11/12/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "27",
+    "HO Deliveries": "7",
+    "End of Day": "32"
+  },
+  {
+    "Date": "11/12/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "25",
+    "HO Deliveries": "1",
+    "End of Day": "24"
+  },
+  {
+    "Date": "11/15/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "37",
+    "Packages": "106",
+    "HO Deliveries": "15",
+    "End of Day": "52"
+  },
+  {
+    "Date": "11/15/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "30",
+    "Packages": "32",
+    "HO Deliveries": "1",
+    "End of Day": "31"
+  },
+  {
+    "Date": "11/16/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "76",
+    "HO Deliveries": "12",
+    "End of Day": "44"
+  },
+  {
+    "Date": "11/16/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "43",
+    "Packages": "43",
+    "HO Deliveries": "2",
+    "End of Day": "45"
+  },
+  {
+    "Date": "11/17/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "34",
+    "Packages": "44",
+    "HO Deliveries": "22",
+    "End of Day": "56"
+  },
+  {
+    "Date": "11/17/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "43",
+    "Packages": "44",
+    "HO Deliveries": "1",
+    "End of Day": "44"
+  },
+  {
+    "Date": "11/18/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "15",
+    "Packages": "17",
+    "HO Deliveries": "20",
+    "End of Day": "35"
+  },
+  {
+    "Date": "11/18/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "28",
+    "HO Deliveries": "1",
+    "End of Day": "28"
+  },
+  {
+    "Date": "11/19/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "8",
+    "Packages": "8",
+    "HO Deliveries": "5",
+    "End of Day": "13"
+  },
+  {
+    "Date": "11/19/2021",
+    "Initials": "IW",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "23",
+    "HO Deliveries": "0",
+    "End of Day": "21"
+  },
+  {
+    "Date": "11/19/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "20",
+    "HO Deliveries": "0",
+    "End of Day": "14"
+  },
+  {
+    "Date": "11/22/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "31",
+    "Packages": "49",
+    "HO Deliveries": "15",
+    "End of Day": "46"
+  },
+  {
+    "Date": "11/22/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "25",
+    "Packages": "31",
+    "HO Deliveries": "1",
+    "End of Day": "26"
+  },
+  {
+    "Date": "11/23/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "65",
+    "Packages": "98",
+    "HO Deliveries": "5",
+    "End of Day": "70"
+  },
+  {
+    "Date": "11/23/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "28",
+    "Packages": "28",
+    "HO Deliveries": "0",
+    "End of Day": "28"
+  },
+  {
+    "Date": "11/24/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "35",
+    "Packages": "37",
+    "HO Deliveries": "17",
+    "End of Day": "52"
+  },
+  {
+    "Date": "11/24/2021",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "17"
+  },
+  {
+    "Date": "11/29/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "37",
+    "Packages": "45",
+    "HO Deliveries": "15",
+    "End of Day": "52"
+  },
+  {
+    "Date": "11/29/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "2",
+    "End of Day": "12"
+  },
+  {
+    "Date": "11/30/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "38",
+    "HO Deliveries": "21",
+    "End of Day": "53"
+  },
+  {
+    "Date": "11/30/2021",
+    "Initials": "DL",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "40",
+    "HO Deliveries": "1",
+    "End of Day": "41"
+  },
+  {
+    "Date": "12/01/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "46",
+    "Packages": "60",
+    "HO Deliveries": "1",
+    "End of Day": "47"
+  },
+  {
+    "Date": "12/02/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "40",
+    "Packages": "51",
+    "HO Deliveries": "10",
+    "End of Day": "50"
+  },
+  {
+    "Date": "12/02/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "28",
+    "HO Deliveries": "3",
+    "End of Day": "30"
+  },
+  {
+    "Date": "12/03/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "102",
+    "Packages": "104",
+    "HO Deliveries": "3",
+    "End of Day": "105"
+  },
+  {
+    "Date": "12/03/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "1",
+    "End of Day": "13"
+  },
+  {
+    "Date": "12/06/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "60",
+    "Packages": "76",
+    "HO Deliveries": "4"
+  },
+  {
+    "Date": "12/06/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "49",
+    "Packages": "50",
+    "HO Deliveries": "3",
+    "End of Day": "52"
+  },
+  {
+    "Date": "12/07/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "35",
+    "Packages": "64",
+    "HO Deliveries": "6",
+    "End of Day": "41"
+  },
+  {
+    "Date": "12/07/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "14",
+    "HO Deliveries": "0",
+    "End of Day": "12"
+  },
+  {
+    "Date": "12/07/2021",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "2",
+    "End of Day": "3"
+  },
+  {
+    "Date": "12/08/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "16",
+    "Packages": "31",
+    "HO Deliveries": "4",
+    "End of Day": "20"
+  },
+  {
+    "Date": "12/08/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "29",
+    "Packages": "29",
+    "HO Deliveries": "5",
+    "End of Day": "34"
+  },
+  {
+    "Date": "12/09/2021",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "48",
+    "HO Deliveries": "12",
+    "End of Day": "48"
+  },
+  {
+    "Date": "12/09/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "37",
+    "HO Deliveries": "2",
+    "End of Day": "34"
+  },
+  {
+    "Date": "12/10/2021",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "48",
+    "Packages": "49",
+    "HO Deliveries": "6",
+    "End of Day": "54"
+  },
+  {
+    "Date": "12/13/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "19",
+    "Packages": "20",
+    "HO Deliveries": "41",
+    "End of Day": "60"
+  },
+  {
+    "Date": "12/13/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "29",
+    "Packages": "29",
+    "HO Deliveries": "27",
+    "End of Day": "56"
+  },
+  {
+    "Date": "12/14/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "19",
+    "Packages": "25",
+    "HO Deliveries": "38",
+    "End of Day": "57"
+  },
+  {
+    "Date": "12/14/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "9",
+    "Packages": "9",
+    "HO Deliveries": "0",
+    "End of Day": "9"
+  },
+  {
+    "Date": "12/14/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "0",
+    "End of Day": "12"
+  },
+  {
+    "Date": "12/15/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "37",
+    "Packages": "41",
+    "HO Deliveries": "1",
+    "End of Day": "38"
+  },
+  {
+    "Date": "12/16/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "42",
+    "Packages": "38",
+    "HO Deliveries": "4",
+    "End of Day": "46"
+  },
+  {
+    "Date": "12/16/2021",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "58",
+    "Packages": "66",
+    "HO Deliveries": "9",
+    "End of Day": "67"
+  },
+  {
+    "Date": "12/17/2021",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "44",
+    "Packages": "47",
+    "HO Deliveries": "6",
+    "End of Day": "50"
+  },
+  {
+    "Date": "12/17/2021",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "85",
+    "Packages": "90",
+    "HO Deliveries": "0",
+    "End of Day": "85"
+  },
+  {
+    "Date": "12/20/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "130",
+    "Packages": "150",
+    "HO Deliveries": "5",
+    "End of Day": "135"
+  },
+  {
+    "Date": "12/20/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "37",
+    "HO Deliveries": "0",
+    "End of Day": "32"
+  },
+  {
+    "Date": "12/21/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "57",
+    "Packages": "58",
+    "HO Deliveries": "15",
+    "End of Day": "72"
+  },
+  {
+    "Date": "12/21/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "0",
+    "End of Day": "4"
+  },
+  {
+    "Date": "12/21/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "53",
+    "Packages": "62",
+    "HO Deliveries": "4",
+    "End of Day": "57"
+  },
+  {
+    "Date": "12/22/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "74",
+    "Packages": "82",
+    "HO Deliveries": "5",
+    "End of Day": "79"
+  },
+  {
+    "Date": "12/22/2021",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "37",
+    "Packages": "41",
+    "HO Deliveries": "3",
+    "End of Day": "40"
+  },
+  {
+    "Date": "12/23/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "39",
+    "Packages": "42",
+    "HO Deliveries": "51",
+    "End of Day": "90"
+  },
+  {
+    "Date": "12/23/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "87",
+    "Packages": "87",
+    "HO Deliveries": "3",
+    "End of Day": "90"
+  },
+  {
+    "Date": "12/27/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "63",
+    "Packages": "67",
+    "HO Deliveries": "3",
+    "End of Day": "66"
+  },
+  {
+    "Date": "12/27/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "22",
+    "Packages": "25",
+    "HO Deliveries": "2",
+    "End of Day": "24"
+  },
+  {
+    "Date": "12/28/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "134",
+    "Packages": "138",
+    "HO Deliveries": "2",
+    "End of Day": "136"
+  },
+  {
+    "Date": "12/28/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "52",
+    "Packages": "56",
+    "HO Deliveries": "0",
+    "End of Day": "52"
+  },
+  {
+    "Date": "12/29/2021",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "20",
+    "Packages": "39",
+    "HO Deliveries": "31",
+    "End of Day": "51"
+  },
+  {
+    "Date": "12/29/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "19",
+    "HO Deliveries": "1",
+    "End of Day": "18"
+  },
+  {
+    "Date": "12/30/2021",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "35",
+    "HO Deliveries": "0",
+    "End of Day": "29"
+  },
+  {
+    "Date": "12/30/2021",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "5",
+    "End of Day": "5"
+  },
+  {
+    "Date": "01/03/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "5",
+    "Packages": "5",
+    "HO Deliveries": "0",
+    "End of Day": "5"
+  },
+  {
+    "Date": "01/03/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "53",
+    "Packages": "85",
+    "HO Deliveries": "1",
+    "End of Day": "54"
+  },
+  {
+    "Date": "01/03/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "9",
+    "Packages": "12",
+    "HO Deliveries": "0",
+    "End of Day": "9"
+  },
+  {
+    "Date": "01/03/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "3",
+    "End of Day": "13"
+  },
+  {
+    "Date": "01/04/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "14",
+    "Packages": "17",
+    "HO Deliveries": "4",
+    "End of Day": "18"
+  },
+  {
+    "Date": "01/04/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "31",
+    "Packages": "38",
+    "HO Deliveries": "1",
+    "End of Day": "32"
+  },
+  {
+    "Date": "01/05/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "42",
+    "Packages": "46",
+    "HO Deliveries": "4",
+    "End of Day": "46"
+  },
+  {
+    "Date": "01/05/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "40",
+    "HO Deliveries": "1",
+    "End of Day": "40"
+  },
+  {
+    "Date": "01/06/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "53",
+    "Packages": "61",
+    "HO Deliveries": "60",
+    "End of Day": "113"
+  },
+  {
+    "Date": "01/06/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "17"
+  },
+  {
+    "Date": "01/06/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "30",
+    "Packages": "34\t",
+    "HO Deliveries": "6",
+    "End of Day": "36"
+  },
+  {
+    "Date": "01/07/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "48",
+    "Packages": "52",
+    "HO Deliveries": "4",
+    "End of Day": "52"
+  },
+  {
+    "Date": "01/07/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "0",
+    "End of Day": "4"
+  },
+  {
+    "Date": "01/07/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "14",
+    "HO Deliveries": "0",
+    "End of Day": "14"
+  },
+  {
+    "Date": "01/10/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "18",
+    "Packages": "20",
+    "HO Deliveries": "8",
+    "End of Day": "26"
+  },
+  {
+    "Date": "01/10/2022",
+    "Initials": "NM",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "33",
+    "Packages": "34",
+    "HO Deliveries": "1",
+    "End of Day": "34"
+  },
+  {
+    "Date": "01/11/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "50",
+    "Packages": "54",
+    "HO Deliveries": "10",
+    "End of Day": "60"
+  },
+  {
+    "Date": "01/11/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "25",
+    "Packages": "26",
+    "HO Deliveries": "3",
+    "End of Day": "28"
+  },
+  {
+    "Date": "01/12/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "30",
+    "Packages": "35",
+    "HO Deliveries": "5",
+    "End of Day": "35"
+  },
+  {
+    "Date": "01/12/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "42",
+    "HO Deliveries": "0",
+    "End of Day": "40"
+  },
+  {
+    "Date": "01/13/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "26",
+    "HO Deliveries": "7",
+    "End of Day": "28"
+  },
+  {
+    "Date": "01/13/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "14",
+    "HO Deliveries": "1",
+    "End of Day": "15"
+  },
+  {
+    "Date": "01/14/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "17",
+    "Packages": "28",
+    "HO Deliveries": "10",
+    "End of Day": "27"
+  },
+  {
+    "Date": "01/14/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "48",
+    "HO Deliveries": "32",
+    "End of Day": "71"
+  },
+  {
+    "Date": "01/18/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "45",
+    "Packages": "48",
+    "HO Deliveries": "5",
+    "End of Day": "50"
+  },
+  {
+    "Date": "01/18/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "53",
+    "Packages": "59",
+    "HO Deliveries": "15",
+    "End of Day": "68"
+  },
+  {
+    "Date": "01/19/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "16",
+    "End of Day": "28"
+  },
+  {
+    "Date": "01/19/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "17",
+    "Packages": "18",
+    "HO Deliveries": "1",
+    "End of Day": "18"
+  },
+  {
+    "Date": "01/19/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "43",
+    "Packages": "45",
+    "HO Deliveries": "9",
+    "End of Day": "52"
+  },
+  {
+    "Date": "01/20/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "45",
+    "Packages": "48",
+    "HO Deliveries": "2",
+    "End of Day": "47"
+  },
+  {
+    "Date": "01/20/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "30",
+    "Packages": "32",
+    "HO Deliveries": "9",
+    "End of Day": "39"
+  },
+  {
+    "Date": "01/21/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "19",
+    "Packages": "23",
+    "HO Deliveries": "24",
+    "End of Day": "43"
+  },
+  {
+    "Date": "01/21/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "38",
+    "Packages": "47",
+    "HO Deliveries": "3",
+    "End of Day": "41"
+  },
+  {
+    "Date": "01/24/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "29",
+    "Packages": "29",
+    "HO Deliveries": "3",
+    "End of Day": "32"
+  },
+  {
+    "Date": "01/25/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "37",
+    "Packages": "41",
+    "HO Deliveries": "5",
+    "End of Day": "42"
+  },
+  {
+    "Date": "01/25/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "6",
+    "HO Deliveries": "0",
+    "End of Day": "6"
+  },
+  {
+    "Date": "01/25/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "50",
+    "Packages": "56",
+    "HO Deliveries": "11",
+    "End of Day": "61"
+  },
+  {
+    "Date": "01/26/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "28",
+    "Packages": "35",
+    "HO Deliveries": "30",
+    "End of Day": "58"
+  },
+  {
+    "Date": "01/26/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "43",
+    "Packages": "50",
+    "HO Deliveries": "3",
+    "End of Day": "46"
+  },
+  {
+    "Date": "01/27/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "37",
+    "Packages": "45",
+    "HO Deliveries": "30",
+    "End of Day": "67"
+  },
+  {
+    "Date": "01/27/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "35",
+    "HO Deliveries": "15",
+    "End of Day": "47"
+  },
+  {
+    "Date": "01/28/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "31",
+    "HO Deliveries": "16",
+    "End of Day": "45"
+  },
+  {
+    "Date": "01/28/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "20",
+    "Packages": "20",
+    "HO Deliveries": "4",
+    "End of Day": "24"
+  },
+  {
+    "Date": "01/31/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "26",
+    "Packages": "28",
+    "HO Deliveries": "4",
+    "End of Day": "30"
+  },
+  {
+    "Date": "01/31/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "47",
+    "Packages": "52",
+    "HO Deliveries": "1",
+    "End of Day": "48"
+  },
+  {
+    "Date": "02/01/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "24",
+    "Packages": "25",
+    "HO Deliveries": "6",
+    "End of Day": "30"
+  },
+  {
+    "Date": "02/01/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "43",
+    "Packages": "43",
+    "HO Deliveries": "6",
+    "End of Day": "49"
+  },
+  {
+    "Date": "02/02/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "58",
+    "Packages": "68",
+    "HO Deliveries": "8",
+    "End of Day": "66"
+  },
+  {
+    "Date": "02/02/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "0",
+    "End of Day": "4"
+  },
+  {
+    "Date": "02/02/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "35",
+    "Packages": "35",
+    "HO Deliveries": "0",
+    "End of Day": "35"
+  },
+  {
+    "Date": "02/03/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "22",
+    "Packages": "22",
+    "HO Deliveries": "3",
+    "End of Day": "25"
+  },
+  {
+    "Date": "02/03/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "38",
+    "Packages": "40",
+    "HO Deliveries": "3",
+    "End of Day": "41"
+  },
+  {
+    "Date": "02/04/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "26",
+    "Packages": "31",
+    "HO Deliveries": "3",
+    "End of Day": "29"
+  },
+  {
+    "Date": "02/04/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "0",
+    "End of Day": "10"
+  },
+  {
+    "Date": "02/04/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "2",
+    "End of Day": "21"
+  },
+  {
+    "Date": "02/07/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "31",
+    "Packages": "31",
+    "HO Deliveries": "102",
+    "End of Day": "133"
+  },
+  {
+    "Date": "02/07/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "41",
+    "HO Deliveries": "0",
+    "End of Day": "39"
+  },
+  {
+    "Date": "02/08/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "34",
+    "Packages": "35",
+    "HO Deliveries": "8",
+    "End of Day": "42"
+  },
+  {
+    "Date": "02/08/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "51",
+    "Packages": "51",
+    "HO Deliveries": "1",
+    "End of Day": "52"
+  },
+  {
+    "Date": "02/09/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "37",
+    "HO Deliveries": "12",
+    "End of Day": "48"
+  },
+  {
+    "Date": "02/09/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "32",
+    "HO Deliveries": "1",
+    "End of Day": "33"
+  },
+  {
+    "Date": "02/10/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "58",
+    "Packages": "60",
+    "HO Deliveries": "28",
+    "End of Day": "86"
+  },
+  {
+    "Date": "02/10/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "22",
+    "HO Deliveries": "3",
+    "End of Day": "24"
+  },
+  {
+    "Date": "02/11/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "18",
+    "Packages": "20",
+    "HO Deliveries": "4",
+    "End of Day": "22"
+  },
+  {
+    "Date": "02/11/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "31",
+    "HO Deliveries": "1",
+    "End of Day": "28"
+  },
+  {
+    "Date": "02/14/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "26",
+    "Packages": "28",
+    "HO Deliveries": "1",
+    "End of Day": "27"
+  },
+  {
+    "Date": "02/14/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "43",
+    "HO Deliveries": "4",
+    "End of Day": "44"
+  },
+  {
+    "Date": "02/15/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "27",
+    "Packages": "28",
+    "HO Deliveries": "4",
+    "End of Day": "31"
+  },
+  {
+    "Date": "02/15/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "18",
+    "HO Deliveries": "12",
+    "End of Day": "28"
+  },
+  {
+    "Date": "02/15/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "0",
+    "End of Day": "23"
+  },
+  {
+    "Date": "02/16/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "38",
+    "Packages": "38",
+    "HO Deliveries": "5",
+    "End of Day": "43"
+  },
+  {
+    "Date": "02/16/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "36",
+    "Packages": "36",
+    "HO Deliveries": "2",
+    "End of Day": "38"
+  },
+  {
+    "Date": "02/17/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "17",
+    "Packages": "20",
+    "HO Deliveries": "45",
+    "End of Day": "62"
+  },
+  {
+    "Date": "02/17/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "64",
+    "Packages": "67",
+    "HO Deliveries": "6",
+    "End of Day": "70"
+  },
+  {
+    "Date": "02/18/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "33",
+    "Packages": "33",
+    "HO Deliveries": "18",
+    "End of Day": "51"
+  },
+  {
+    "Date": "02/18/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "16"
+  },
+  {
+    "Date": "02/21/2022",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "39",
+    "Packages": "42",
+    "HO Deliveries": "11",
+    "End of Day": "50"
+  },
+  {
+    "Date": "02/21/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "48",
+    "Packages": "50",
+    "HO Deliveries": "3",
+    "End of Day": "51"
+  },
+  {
+    "Date": "02/22/2022",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "30",
+    "Packages": "31",
+    "HO Deliveries": "5",
+    "End of Day": "35"
+  },
+  {
+    "Date": "02/22/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "43",
+    "Packages": "47",
+    "HO Deliveries": "7",
+    "End of Day": "50"
+  },
+  {
+    "Date": "02/23/2022",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "23",
+    "HO Deliveries": "11",
+    "End of Day": "32"
+  },
+  {
+    "Date": "02/23/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "56",
+    "Packages": "59",
+    "HO Deliveries": "13",
+    "End of Day": "69"
+  },
+  {
+    "Date": "02/24/2022",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "22",
+    "Packages": "23",
+    "HO Deliveries": "14",
+    "End of Day": "36"
+  },
+  {
+    "Date": "02/24/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "30",
+    "End of Day": "57"
+  },
+  {
+    "Date": "02/25/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "64",
+    "Packages": "69",
+    "HO Deliveries": "3",
+    "End of Day": "67"
+  },
+  {
+    "Date": "02/28/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "32",
+    "HO Deliveries": "5",
+    "End of Day": "37"
+  },
+  {
+    "Date": "02/28/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "41",
+    "HO Deliveries": "2",
+    "End of Day": "42"
+  },
+  {
+    "Date": "03/01/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "49",
+    "Packages": "49",
+    "HO Deliveries": "37",
+    "End of Day": "86"
+  },
+  {
+    "Date": "03/01/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "28",
+    "HO Deliveries": "21",
+    "End of Day": "48"
+  },
+  {
+    "Date": "03/02/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "48",
+    "Packages": "51",
+    "HO Deliveries": "11",
+    "End of Day": "59"
+  },
+  {
+    "Date": "03/02/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "40",
+    "HO Deliveries": "10",
+    "End of Day": "49"
+  },
+  {
+    "Date": "03/03/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "55",
+    "Packages": "61",
+    "HO Deliveries": "11",
+    "End of Day": "66"
+  },
+  {
+    "Date": "03/03/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "40",
+    "HO Deliveries": "2",
+    "End of Day": "42"
+  },
+  {
+    "Date": "03/04/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "22",
+    "HO Deliveries": "86",
+    "End of Day": "107"
+  },
+  {
+    "Date": "03/04/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "41",
+    "Packages": "45",
+    "HO Deliveries": "10",
+    "End of Day": "51"
+  },
+  {
+    "Date": "03/07/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "21",
+    "HO Deliveries": "29",
+    "End of Day": "50"
+  },
+  {
+    "Date": "03/07/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "45",
+    "Packages": "49",
+    "HO Deliveries": "1",
+    "End of Day": "46"
+  },
+  {
+    "Date": "03/08/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "35",
+    "Packages": "36",
+    "HO Deliveries": "6",
+    "End of Day": "41"
+  },
+  {
+    "Date": "03/08/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "39",
+    "HO Deliveries": "0",
+    "End of Day": "39"
+  },
+  {
+    "Date": "03/09/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "15",
+    "Packages": "16",
+    "HO Deliveries": "4",
+    "End of Day": "19"
+  },
+  {
+    "Date": "03/09/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "50",
+    "Packages": "51",
+    "HO Deliveries": "7",
+    "End of Day": "57"
+  },
+  {
+    "Date": "03/10/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "18",
+    "Packages": "18",
+    "HO Deliveries": "48",
+    "End of Day": "66"
+  },
+  {
+    "Date": "03/11/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "24",
+    "Packages": "29",
+    "HO Deliveries": "45",
+    "End of Day": "69"
+  },
+  {
+    "Date": "03/11/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "42",
+    "Packages": "46",
+    "HO Deliveries": "0",
+    "End of Day": "42"
+  },
+  {
+    "Date": "03/14/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "28",
+    "Packages": "28",
+    "HO Deliveries": "1",
+    "End of Day": "29"
+  },
+  {
+    "Date": "03/14/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "18",
+    "Packages": "18",
+    "HO Deliveries": "1",
+    "End of Day": "19"
+  },
+  {
+    "Date": "03/15/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "53",
+    "Packages": "54",
+    "HO Deliveries": "2",
+    "End of Day": "55"
+  },
+  {
+    "Date": "03/15/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "0",
+    "End of Day": "27"
+  },
+  {
+    "Date": "03/16/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "33",
+    "HO Deliveries": "20",
+    "End of Day": "52"
+  },
+  {
+    "Date": "03/16/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "46",
+    "HO Deliveries": "0",
+    "End of Day": "40"
+  },
+  {
+    "Date": "03/17/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "23",
+    "Packages": "26",
+    "HO Deliveries": "24",
+    "End of Day": "47"
+  },
+  {
+    "Date": "03/17/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "35",
+    "Packages": "36",
+    "HO Deliveries": "2",
+    "End of Day": "37"
+  },
+  {
+    "Date": "03/18/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "29",
+    "HO Deliveries": "12",
+    "End of Day": "41"
+  },
+  {
+    "Date": "03/18/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "42",
+    "Packages": "44",
+    "HO Deliveries": "0",
+    "End of Day": "42"
+  },
+  {
+    "Date": "03/21/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "41",
+    "HO Deliveries": "3",
+    "End of Day": "42"
+  },
+  {
+    "Date": "03/22/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "31",
+    "HO Deliveries": "58",
+    "End of Day": "87"
+  },
+  {
+    "Date": "03/22/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "32",
+    "HO Deliveries": "12",
+    "End of Day": "44"
+  },
+  {
+    "Date": "03/23/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "54",
+    "Packages": "56",
+    "HO Deliveries": "153",
+    "End of Day": "207"
+  },
+  {
+    "Date": "03/23/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "24",
+    "HO Deliveries": "1",
+    "End of Day": "24"
+  },
+  {
+    "Date": "03/24/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "17",
+    "Packages": "19",
+    "HO Deliveries": "40",
+    "End of Day": "57"
+  },
+  {
+    "Date": "03/24/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "42",
+    "Packages": "42",
+    "HO Deliveries": "4",
+    "End of Day": "46"
+  },
+  {
+    "Date": "03/25/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "55",
+    "End of Day": "74"
+  },
+  {
+    "Date": "03/25/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "14",
+    "HO Deliveries": "0",
+    "End of Day": "13"
+  },
+  {
+    "Date": "03/25/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "5",
+    "Packages": "5",
+    "HO Deliveries": "0",
+    "End of Day": "5"
+  },
+  {
+    "Date": "03/28/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "33",
+    "Packages": "34",
+    "HO Deliveries": "38",
+    "End of Day": "71"
+  },
+  {
+    "Date": "03/28/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "50",
+    "Packages": "50",
+    "HO Deliveries": "7",
+    "End of Day": "57"
+  },
+  {
+    "Date": "03/29/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "22",
+    "Packages": "22",
+    "HO Deliveries": "0",
+    "End of Day": "22"
+  },
+  {
+    "Date": "03/29/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "40",
+    "HO Deliveries": "19",
+    "End of Day": "58"
+  },
+  {
+    "Date": "03/29/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "27",
+    "Packages": "29",
+    "HO Deliveries": "60",
+    "End of Day": "87"
+  },
+  {
+    "Date": "03/30/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "48",
+    "Packages": "49",
+    "HO Deliveries": "73",
+    "End of Day": "121"
+  },
+  {
+    "Date": "03/30/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "50",
+    "Packages": "53",
+    "HO Deliveries": "13",
+    "End of Day": "63"
+  },
+  {
+    "Date": "03/31/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "18",
+    "Packages": "22",
+    "HO Deliveries": "16",
+    "End of Day": "34"
+  },
+  {
+    "Date": "03/31/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "28",
+    "Packages": "29",
+    "HO Deliveries": "6",
+    "End of Day": "34"
+  },
+  {
+    "Date": "04/01/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "36",
+    "HO Deliveries": "42",
+    "End of Day": "78"
+  },
+  {
+    "Date": "04/01/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "26",
+    "Packages": "26",
+    "HO Deliveries": "0",
+    "End of Day": "26"
+  },
+  {
+    "Date": "04/04/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "27",
+    "HO Deliveries": "10",
+    "End of Day": "35"
+  },
+  {
+    "Date": "04/04/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "44",
+    "Packages": "45",
+    "HO Deliveries": "2",
+    "End of Day": "46"
+  },
+  {
+    "Date": "04/05/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "33",
+    "Packages": "33",
+    "HO Deliveries": "5",
+    "End of Day": "38"
+  },
+  {
+    "Date": "04/05/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "45",
+    "Packages": "46",
+    "HO Deliveries": "4",
+    "End of Day": "49"
+  },
+  {
+    "Date": "04/06/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "26",
+    "Packages": "27",
+    "HO Deliveries": "9",
+    "End of Day": "35"
+  },
+  {
+    "Date": "04/06/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "49",
+    "Packages": "52",
+    "HO Deliveries": "15",
+    "End of Day": "64"
+  },
+  {
+    "Date": "04/07/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "15",
+    "Packages": "16",
+    "HO Deliveries": "21",
+    "End of Day": "36"
+  },
+  {
+    "Date": "04/07/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "24",
+    "HO Deliveries": "4",
+    "End of Day": "25"
+  },
+  {
+    "Date": "04/07/2022",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "0",
+    "End of Day": "10"
+  },
+  {
+    "Date": "04/08/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "31",
+    "Packages": "32",
+    "HO Deliveries": "12",
+    "End of Day": "43"
+  },
+  {
+    "Date": "04/08/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "34",
+    "Packages": "35",
+    "HO Deliveries": "2",
+    "End of Day": "36"
+  },
+  {
+    "Date": "04/12/2022",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "40",
+    "Packages": "50",
+    "HO Deliveries": "8",
+    "End of Day": "48"
+  },
+  {
+    "Date": "04/12/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "32",
+    "HO Deliveries": "0",
+    "End of Day": "32"
+  },
+  {
+    "Date": "04/13/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "13",
+    "Packages": "16",
+    "HO Deliveries": "15",
+    "End of Day": "28"
+  },
+  {
+    "Date": "04/13/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "46",
+    "Packages": "51",
+    "HO Deliveries": "0",
+    "End of Day": "46"
+  },
+  {
+    "Date": "04/14/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "04/14/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "25",
+    "HO Deliveries": "110",
+    "End of Day": "131"
+  },
+  {
+    "Date": "04/14/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "32",
+    "HO Deliveries": "8",
+    "End of Day": "40"
+  },
+  {
+    "Date": "04/15/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "6",
+    "Packages": "8",
+    "HO Deliveries": "15",
+    "End of Day": "21"
+  },
+  {
+    "Date": "04/15/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "45",
+    "Packages": "47",
+    "HO Deliveries": "3",
+    "End of Day": "48"
+  },
+  {
+    "Date": "04/18/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "16",
+    "Packages": "20",
+    "HO Deliveries": "16",
+    "End of Day": "32"
+  },
+  {
+    "Date": "04/18/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "38",
+    "Packages": "42",
+    "HO Deliveries": "3",
+    "End of Day": "41"
+  },
+  {
+    "Date": "04/19/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "34",
+    "Packages": "38",
+    "HO Deliveries": "6",
+    "End of Day": "40"
+  },
+  {
+    "Date": "04/19/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "41",
+    "Packages": "42",
+    "HO Deliveries": "2",
+    "End of Day": "43"
+  },
+  {
+    "Date": "04/20/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "41",
+    "HO Deliveries": "6",
+    "End of Day": "42"
+  },
+  {
+    "Date": "04/20/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "36",
+    "Packages": "37",
+    "HO Deliveries": "4",
+    "End of Day": "40"
+  },
+  {
+    "Date": "04/21/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "29",
+    "HO Deliveries": "5",
+    "End of Day": "34"
+  },
+  {
+    "Date": "04/21/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "04/21/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "41",
+    "HO Deliveries": "6",
+    "End of Day": "46"
+  },
+  {
+    "Date": "04/22/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "35",
+    "Packages": "37",
+    "HO Deliveries": "55",
+    "End of Day": "90"
+  },
+  {
+    "Date": "04/22/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "18",
+    "HO Deliveries": "5",
+    "End of Day": "22"
+  },
+  {
+    "Date": "04/25/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "39",
+    "Packages": "40",
+    "HO Deliveries": "10",
+    "End of Day": "49"
+  },
+  {
+    "Date": "04/25/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "5",
+    "End of Day": "32"
+  },
+  {
+    "Date": "04/25/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "04/26/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "44",
+    "Packages": "55",
+    "HO Deliveries": "29",
+    "End of Day": "73"
+  },
+  {
+    "Date": "04/26/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "8",
+    "End of Day": "19"
+  },
+  {
+    "Date": "04/26/2022",
+    "Initials": "DL",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "0",
+    "End of Day": "12"
+  },
+  {
+    "Date": "04/26/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "28",
+    "Packages": "28",
+    "HO Deliveries": "0",
+    "End of Day": "28"
+  },
+  {
+    "Date": "04/26/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "1",
+    "End of Day": "1"
+  },
+  {
+    "Date": "04/27/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "14",
+    "Packages": "20",
+    "HO Deliveries": "37",
+    "End of Day": "51"
+  },
+  {
+    "Date": "04/27/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "37",
+    "Packages": "39",
+    "HO Deliveries": "3",
+    "End of Day": "40"
+  },
+  {
+    "Date": "04/27/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "33",
+    "Packages": "34",
+    "HO Deliveries": "0",
+    "End of Day": "33"
+  },
+  {
+    "Date": "04/27/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "16",
+    "HO Deliveries": "7",
+    "End of Day": "21"
+  },
+  {
+    "Date": "04/28/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "24",
+    "Packages": "25",
+    "HO Deliveries": "15",
+    "End of Day": "39"
+  },
+  {
+    "Date": "04/28/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "34",
+    "HO Deliveries": "0",
+    "End of Day": "32"
+  },
+  {
+    "Date": "04/28/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "20",
+    "Packages": "22",
+    "HO Deliveries": "4",
+    "End of Day": "24"
+  },
+  {
+    "Date": "04/28/2022",
+    "Initials": "DL",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "0",
+    "End of Day": "19"
+  },
+  {
+    "Date": "04/28/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "33",
+    "Packages": "35",
+    "HO Deliveries": "5",
+    "End of Day": "38"
+  },
+  {
+    "Date": "04/29/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "13",
+    "Packages": "15",
+    "HO Deliveries": "42",
+    "End of Day": "55"
+  },
+  {
+    "Date": "04/29/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "29",
+    "Packages": "30",
+    "HO Deliveries": "2",
+    "End of Day": "31"
+  },
+  {
+    "Date": "04/29/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "1",
+    "End of Day": "1"
+  },
+  {
+    "Date": "05/03/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "6",
+    "Packages": "7",
+    "HO Deliveries": "0",
+    "End of Day": "6"
+  },
+  {
+    "Date": "05/03/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "33",
+    "Packages": "35",
+    "HO Deliveries": "12",
+    "End of Day": "45"
+  },
+  {
+    "Date": "05/03/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "37",
+    "Packages": "37",
+    "HO Deliveries": "6",
+    "End of Day": "43"
+  },
+  {
+    "Date": "05/03/2022",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "5",
+    "Packages": "5",
+    "HO Deliveries": "0",
+    "End of Day": "5"
+  },
+  {
+    "Date": "05/04/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "26",
+    "HO Deliveries": "15",
+    "End of Day": "40"
+  },
+  {
+    "Date": "05/04/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "33",
+    "Packages": "34",
+    "HO Deliveries": "0",
+    "End of Day": "33"
+  },
+  {
+    "Date": "05/04/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "41",
+    "HO Deliveries": "0",
+    "End of Day": "40"
+  },
+  {
+    "Date": "05/04/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "2",
+    "End of Day": "3"
+  },
+  {
+    "Date": "05/04/2022",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "2",
+    "Packages": "2",
+    "HO Deliveries": "0",
+    "End of Day": "2"
+  },
+  {
+    "Date": "05/05/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "20",
+    "Packages": "20",
+    "HO Deliveries": "10",
+    "End of Day": "30"
+  },
+  {
+    "Date": "05/05/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "05/05/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "16",
+    "HO Deliveries": "0",
+    "End of Day": "16"
+  },
+  {
+    "Date": "05/05/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "41",
+    "Packages": "48",
+    "HO Deliveries": "2",
+    "End of Day": "43"
+  },
+  {
+    "Date": "05/06/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "45",
+    "Packages": "47",
+    "HO Deliveries": "5",
+    "End of Day": "50"
+  },
+  {
+    "Date": "05/06/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "05/09/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "17"
+  },
+  {
+    "Date": "05/09/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "35",
+    "Packages": "37",
+    "HO Deliveries": "0",
+    "End of Day": "35"
+  },
+  {
+    "Date": "05/09/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "18",
+    "Packages": "19",
+    "HO Deliveries": "1",
+    "End of Day": "19"
+  },
+  {
+    "Date": "05/09/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "1",
+    "End of Day": "13"
+  },
+  {
+    "Date": "05/10/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "3",
+    "End of Day": "15"
+  },
+  {
+    "Date": "05/10/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "05/10/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "15",
+    "HO Deliveries": "23",
+    "End of Day": "36"
+  },
+  {
+    "Date": "05/11/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "25",
+    "HO Deliveries": "40",
+    "End of Day": "65"
+  },
+  {
+    "Date": "05/11/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "21",
+    "HO Deliveries": "0",
+    "End of Day": "21"
+  },
+  {
+    "Date": "05/11/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "5",
+    "End of Day": "5"
+  },
+  {
+    "Date": "05/11/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "35",
+    "Packages": "36",
+    "HO Deliveries": "23",
+    "End of Day": "58"
+  },
+  {
+    "Date": "05/12/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "32",
+    "HO Deliveries": "42",
+    "End of Day": "74"
+  },
+  {
+    "Date": "05/12/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "31",
+    "HO Deliveries": "4",
+    "End of Day": "31"
+  },
+  {
+    "Date": "05/12/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "05/13/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "20",
+    "Packages": "20",
+    "HO Deliveries": "6",
+    "End of Day": "26"
+  },
+  {
+    "Date": "05/13/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "30",
+    "Packages": "30",
+    "HO Deliveries": "0",
+    "End of Day": "30"
+  },
+  {
+    "Date": "05/13/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "0",
+    "End of Day": "11"
+  },
+  {
+    "Date": "05/13/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "4",
+    "End of Day": "17"
+  },
+  {
+    "Date": "05/16/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "184",
+    "End of Day": "199"
+  },
+  {
+    "Date": "05/16/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "22",
+    "HO Deliveries": "1",
+    "End of Day": "20"
+  },
+  {
+    "Date": "05/16/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "0",
+    "End of Day": "11"
+  },
+  {
+    "Date": "05/16/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "0",
+    "End of Day": "13"
+  },
+  {
+    "Date": "05/17/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "51",
+    "HO Deliveries": "6",
+    "End of Day": "35"
+  },
+  {
+    "Date": "05/17/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "36",
+    "Packages": "36",
+    "HO Deliveries": "9",
+    "End of Day": "45"
+  },
+  {
+    "Date": "05/17/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "14",
+    "HO Deliveries": "2",
+    "End of Day": "16"
+  },
+  {
+    "Date": "05/17/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "2",
+    "End of Day": "2"
+  },
+  {
+    "Date": "05/18/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "15",
+    "End of Day": "26"
+  },
+  {
+    "Date": "05/18/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "25",
+    "Packages": "25",
+    "HO Deliveries": "20",
+    "End of Day": "45"
+  },
+  {
+    "Date": "05/19/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "31",
+    "Packages": "31",
+    "HO Deliveries": "22",
+    "End of Day": "53"
+  },
+  {
+    "Date": "05/19/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "7",
+    "HO Deliveries": "0",
+    "End of Day": "6"
+  },
+  {
+    "Date": "05/19/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "5",
+    "HO Deliveries": "7",
+    "End of Day": "11"
+  },
+  {
+    "Date": "05/19/2022",
+    "Initials": "DL",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "39",
+    "HO Deliveries": "0",
+    "End of Day": "39"
+  },
+  {
+    "Date": "05/20/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "45",
+    "Packages": "50",
+    "HO Deliveries": "40",
+    "End of Day": "85"
+  },
+  {
+    "Date": "05/20/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "24",
+    "HO Deliveries": "0",
+    "End of Day": "21"
+  },
+  {
+    "Date": "05/20/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "5",
+    "Packages": "7",
+    "HO Deliveries": "4",
+    "End of Day": "9"
+  },
+  {
+    "Date": "05/23/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "26",
+    "HO Deliveries": "10",
+    "End of Day": "35"
+  },
+  {
+    "Date": "05/23/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "30",
+    "Packages": "30",
+    "HO Deliveries": "0",
+    "End of Day": "30"
+  },
+  {
+    "Date": "05/23/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "33",
+    "HO Deliveries": "0",
+    "End of Day": "32"
+  },
+  {
+    "Date": "05/24/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "22",
+    "HO Deliveries": "10",
+    "End of Day": "31"
+  },
+  {
+    "Date": "05/24/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "17",
+    "HO Deliveries": "2",
+    "End of Day": "18"
+  },
+  {
+    "Date": "05/24/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "8",
+    "Packages": "9",
+    "HO Deliveries": "0",
+    "End of Day": "8"
+  },
+  {
+    "Date": "05/24/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "21",
+    "HO Deliveries": "0",
+    "End of Day": "21"
+  },
+  {
+    "Date": "05/24/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "3",
+    "End of Day": "3"
+  },
+  {
+    "Date": "05/25/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "8",
+    "Packages": "8",
+    "HO Deliveries": "16",
+    "End of Day": "24"
+  },
+  {
+    "Date": "05/25/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "25",
+    "Packages": "25",
+    "HO Deliveries": "3",
+    "End of Day": "28"
+  },
+  {
+    "Date": "05/25/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "8",
+    "Packages": "9",
+    "HO Deliveries": "0",
+    "End of Day": "8"
+  },
+  {
+    "Date": "05/25/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "4",
+    "End of Day": "21"
+  },
+  {
+    "Date": "05/26/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "26",
+    "Packages": "10",
+    "HO Deliveries": "27",
+    "End of Day": "53"
+  },
+  {
+    "Date": "05/26/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "7",
+    "HO Deliveries": "0",
+    "End of Day": "6"
+  },
+  {
+    "Date": "05/26/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "8",
+    "End of Day": "25"
+  },
+  {
+    "Date": "05/27/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "22",
+    "Packages": "22",
+    "HO Deliveries": "9",
+    "End of Day": "31"
+  },
+  {
+    "Date": "05/27/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "18",
+    "Packages": "20",
+    "HO Deliveries": "0",
+    "End of Day": "18"
+  },
+  {
+    "Date": "05/27/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "10",
+    "End of Day": "10"
+  },
+  {
+    "Date": "05/31/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "23",
+    "Packages": "24",
+    "HO Deliveries": "37",
+    "End of Day": "60"
+  },
+  {
+    "Date": "05/31/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "2",
+    "End of Day": "17"
+  },
+  {
+    "Date": "05/31/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "14",
+    "HO Deliveries": "0",
+    "End of Day": "14"
+  },
+  {
+    "Date": "06/01/2022",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "19",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "06/01/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "11",
+    "End of Day": "21"
+  },
+  {
+    "Date": "06/01/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "4",
+    "End of Day": "17"
+  },
+  {
+    "Date": "06/01/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "0",
+    "End of Day": "13"
+  },
+  {
+    "Date": "06/01/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "24",
+    "Packages": "30",
+    "HO Deliveries": "1",
+    "End of Day": "25"
+  },
+  {
+    "Date": "06/02/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "06/02/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "10",
+    "End of Day": "21"
+  },
+  {
+    "Date": "06/02/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "26",
+    "Packages": "26",
+    "HO Deliveries": "0",
+    "End of Day": "26"
+  },
+  {
+    "Date": "06/02/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "20",
+    "End of Day": "31"
+  },
+  {
+    "Date": "06/03/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "40",
+    "End of Day": "44"
+  },
+  {
+    "Date": "06/03/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "35",
+    "HO Deliveries": "3",
+    "End of Day": "35"
+  },
+  {
+    "Date": "06/03/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "25",
+    "HO Deliveries": "0",
+    "End of Day": "21"
+  },
+  {
+    "Date": "06/06/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "18",
+    "Packages": "18",
+    "HO Deliveries": "6",
+    "End of Day": "24"
+  },
+  {
+    "Date": "06/06/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "6",
+    "HO Deliveries": "1",
+    "End of Day": "7"
+  },
+  {
+    "Date": "06/07/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "1",
+    "End of Day": "2"
+  },
+  {
+    "Date": "06/07/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "5",
+    "Packages": "5",
+    "HO Deliveries": "12",
+    "End of Day": "17"
+  },
+  {
+    "Date": "06/08/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "3",
+    "Packages": "3",
+    "HO Deliveries": "4",
+    "End of Day": "7"
+  },
+  {
+    "Date": "06/08/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "1",
+    "End of Day": "2"
+  },
+  {
+    "Date": "06/09/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "6",
+    "End of Day": "25"
+  },
+  {
+    "Date": "06/09/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "1",
+    "End of Day": "5"
+  },
+  {
+    "Date": "06/09/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "3",
+    "End of Day": "3"
+  },
+  {
+    "Date": "06/10/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "53",
+    "Packages": "58",
+    "HO Deliveries": "15",
+    "End of Day": "68"
+  },
+  {
+    "Date": "06/10/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "06/10/2022",
+    "Initials": "DL",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "9",
+    "Packages": "9",
+    "HO Deliveries": "0",
+    "End of Day": "9"
+  },
+  {
+    "Date": "06/10/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "9",
+    "Packages": "10",
+    "HO Deliveries": "0",
+    "End of Day": "9"
+  },
+  {
+    "Date": "06/13/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "22",
+    "Packages": "24",
+    "HO Deliveries": "6",
+    "End of Day": "28"
+  },
+  {
+    "Date": "06/13/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "2",
+    "End of Day": "19"
+  },
+  {
+    "Date": "06/13/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "14",
+    "HO Deliveries": "1",
+    "End of Day": "15"
+  },
+  {
+    "Date": "06/14/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "22",
+    "HO Deliveries": "6",
+    "End of Day": "27"
+  },
+  {
+    "Date": "06/14/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "24",
+    "HO Deliveries": "0",
+    "End of Day": "23"
+  },
+  {
+    "Date": "06/14/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "40",
+    "Packages": "41",
+    "HO Deliveries": "1",
+    "End of Day": "41"
+  },
+  {
+    "Date": "06/15/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "38",
+    "Packages": "40",
+    "HO Deliveries": "63",
+    "End of Day": "101"
+  },
+  {
+    "Date": "06/15/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "46",
+    "Packages": "46",
+    "HO Deliveries": "0",
+    "End of Day": "46"
+  },
+  {
+    "Date": "06/15/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "19",
+    "HO Deliveries": "6",
+    "End of Day": "22"
+  },
+  {
+    "Date": "06/16/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "31",
+    "HO Deliveries": "7",
+    "End of Day": "36"
+  },
+  {
+    "Date": "06/16/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "06/16/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "13",
+    "HO Deliveries": "3",
+    "End of Day": "13"
+  },
+  {
+    "Date": "06/17/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "18",
+    "Packages": "18",
+    "HO Deliveries": "6",
+    "End of Day": "24"
+  },
+  {
+    "Date": "06/17/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "22",
+    "HO Deliveries": "1",
+    "End of Day": "20"
+  },
+  {
+    "Date": "06/17/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "16",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "06/20/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "46",
+    "Packages": "54",
+    "HO Deliveries": "134",
+    "End of Day": "180"
+  },
+  {
+    "Date": "06/20/2022",
+    "Initials": "NM",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "7",
+    "Packages": "8",
+    "HO Deliveries": "0",
+    "End of Day": "7"
+  },
+  {
+    "Date": "06/20/2022",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "7",
+    "End of Day": "26"
+  },
+  {
+    "Date": "06/21/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "47",
+    "Packages": "48",
+    "HO Deliveries": "15",
+    "End of Day": "62"
+  },
+  {
+    "Date": "06/21/2022",
+    "Initials": "NM",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "17"
+  },
+  {
+    "Date": "06/22/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "59",
+    "Packages": "60",
+    "HO Deliveries": "15",
+    "End of Day": "74"
+  },
+  {
+    "Date": "06/22/2022",
+    "Initials": "NM",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "25",
+    "Packages": "28",
+    "HO Deliveries": "0",
+    "End of Day": "25"
+  },
+  {
+    "Date": "06/22/2022",
+    "Initials": "NM",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "0",
+    "End of Day": "10"
+  },
+  {
+    "Date": "06/24/2022",
+    "Initials": "NM",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "3",
+    "End of Day": "14"
+  },
+  {
+    "Date": "06/27/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "14",
+    "End of Day": "29"
+  },
+  {
+    "Date": "06/27/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "5",
+    "Packages": "5",
+    "HO Deliveries": "0",
+    "End of Day": "5"
+  },
+  {
+    "Date": "06/27/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "18",
+    "Packages": "18",
+    "HO Deliveries": "2",
+    "End of Day": "20"
+  },
+  {
+    "Date": "06/28/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "37",
+    "HO Deliveries": "20",
+    "End of Day": "56"
+  },
+  {
+    "Date": "06/28/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "41",
+    "Packages": "41",
+    "HO Deliveries": "3",
+    "End of Day": "44"
+  },
+  {
+    "Date": "06/28/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "2",
+    "End of Day": "21"
+  },
+  {
+    "Date": "06/29/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "22",
+    "Packages": "22",
+    "HO Deliveries": "32",
+    "End of Day": "54"
+  },
+  {
+    "Date": "06/29/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "28",
+    "HO Deliveries": "0",
+    "End of Day": "27"
+  },
+  {
+    "Date": "06/29/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "24",
+    "Packages": "25",
+    "HO Deliveries": "2",
+    "End of Day": "26"
+  },
+  {
+    "Date": "06/30/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "22",
+    "Packages": "22",
+    "HO Deliveries": "33",
+    "End of Day": "55"
+  },
+  {
+    "Date": "06/30/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "22",
+    "HO Deliveries": "3",
+    "End of Day": "24"
+  },
+  {
+    "Date": "07/01/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "2",
+    "Packages": "2",
+    "HO Deliveries": "0",
+    "End of Day": "2"
+  },
+  {
+    "Date": "07/01/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "5",
+    "Packages": "5",
+    "HO Deliveries": "5",
+    "End of Day": "10"
+  },
+  {
+    "Date": "07/01/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "28",
+    "Packages": "29",
+    "HO Deliveries": "4",
+    "End of Day": "32"
+  },
+  {
+    "Date": "07/01/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "8",
+    "HO Deliveries": "0",
+    "End of Day": "6"
+  },
+  {
+    "Date": "07/05/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "22",
+    "Packages": "22",
+    "HO Deliveries": "7",
+    "End of Day": "29"
+  },
+  {
+    "Date": "07/05/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "1",
+    "End of Day": "11"
+  },
+  {
+    "Date": "07/06/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "15",
+    "End of Day": "42"
+  },
+  {
+    "Date": "07/06/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "9",
+    "Packages": "9",
+    "HO Deliveries": "2",
+    "End of Day": "11"
+  },
+  {
+    "Date": "07/06/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "14",
+    "HO Deliveries": "0",
+    "End of Day": "14"
+  },
+  {
+    "Date": "07/07/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "52",
+    "Packages": "52",
+    "HO Deliveries": "8",
+    "End of Day": "60"
+  },
+  {
+    "Date": "07/07/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "11",
+    "HO Deliveries": "1",
+    "End of Day": "12"
+  },
+  {
+    "Date": "07/08/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "34",
+    "Packages": "35",
+    "HO Deliveries": "10",
+    "End of Day": "44"
+  },
+  {
+    "Date": "07/08/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "0",
+    "End of Day": "4"
+  },
+  {
+    "Date": "07/08/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "3",
+    "Packages": "3",
+    "HO Deliveries": "0",
+    "End of Day": "3"
+  },
+  {
+    "Date": "07/11/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "79",
+    "End of Day": "106"
+  },
+  {
+    "Date": "07/11/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "07/11/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "7",
+    "Packages": "7",
+    "HO Deliveries": "0",
+    "End of Day": "7"
+  },
+  {
+    "Date": "07/11/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "4",
+    "End of Day": "5"
+  },
+  {
+    "Date": "07/11/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "07/12/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "12",
+    "End of Day": "29"
+  },
+  {
+    "Date": "07/12/2022",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "20",
+    "HO Deliveries": "1",
+    "End of Day": "20"
+  },
+  {
+    "Date": "07/12/2022",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "5",
+    "Packages": "5",
+    "HO Deliveries": "0",
+    "End of Day": "5"
+  },
+  {
+    "Date": "07/13/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "33",
+    "HO Deliveries": "3",
+    "End of Day": "35"
+  },
+  {
+    "Date": "07/13/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "13",
+    "End of Day": "23"
+  },
+  {
+    "Date": "07/13/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "21",
+    "Packages": "22",
+    "HO Deliveries": "7",
+    "End of Day": "28"
+  },
+  {
+    "Date": "07/13/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "5",
+    "Packages": "5",
+    "HO Deliveries": "0",
+    "End of Day": "5"
+  },
+  {
+    "Date": "07/13/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "1",
+    "End of Day": "5"
+  },
+  {
+    "Date": "07/14/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "25",
+    "Packages": "25",
+    "HO Deliveries": "64",
+    "End of Day": "89"
+  },
+  {
+    "Date": "07/14/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "3",
+    "End of Day": "13"
+  },
+  {
+    "Date": "07/15/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "29",
+    "Packages": "30",
+    "HO Deliveries": "5",
+    "End of Day": "34"
+  },
+  {
+    "Date": "07/15/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "2",
+    "End of Day": "14"
+  },
+  {
+    "Date": "07/18/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "2",
+    "Packages": "4",
+    "HO Deliveries": "0",
+    "End of Day": "2"
+  },
+  {
+    "Date": "07/18/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "6",
+    "End of Day": "10"
+  },
+  {
+    "Date": "07/18/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "29",
+    "HO Deliveries": "0",
+    "End of Day": "29"
+  },
+  {
+    "Date": "07/18/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "0",
+    "End of Day": "4"
+  },
+  {
+    "Date": "07/18/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "2",
+    "End of Day": "15"
+  },
+  {
+    "Date": "07/18/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "9",
+    "Packages": "10",
+    "HO Deliveries": "0",
+    "End of Day": "9"
+  },
+  {
+    "Date": "07/19/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "16",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "16"
+  },
+  {
+    "Date": "07/19/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "32",
+    "HO Deliveries": "2",
+    "End of Day": "34"
+  },
+  {
+    "Date": "07/19/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "6",
+    "HO Deliveries": "0",
+    "End of Day": "6"
+  },
+  {
+    "Date": "07/19/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "5",
+    "End of Day": "20"
+  },
+  {
+    "Date": "07/20/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "30",
+    "Packages": "42",
+    "HO Deliveries": "24",
+    "End of Day": "54"
+  },
+  {
+    "Date": "07/20/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "37",
+    "Packages": "40",
+    "HO Deliveries": "0",
+    "End of Day": "37"
+  },
+  {
+    "Date": "07/20/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "14",
+    "End of Day": "29"
+  },
+  {
+    "Date": "07/21/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "63",
+    "Packages": "70",
+    "HO Deliveries": "17",
+    "End of Day": "80"
+  },
+  {
+    "Date": "07/21/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "63",
+    "Packages": "65",
+    "HO Deliveries": "14",
+    "End of Day": "77"
+  },
+  {
+    "Date": "07/21/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "2",
+    "End of Day": "25"
+  },
+  {
+    "Date": "07/22/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "31",
+    "Packages": "35",
+    "HO Deliveries": "55",
+    "End of Day": "86"
+  },
+  {
+    "Date": "07/22/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "22",
+    "HO Deliveries": "2",
+    "End of Day": "21"
+  },
+  {
+    "Date": "07/22/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "11",
+    "Packages": "12",
+    "HO Deliveries": "2",
+    "End of Day": "13"
+  },
+  {
+    "Date": "07/25/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "2",
+    "End of Day": "12"
+  },
+  {
+    "Date": "07/25/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "0",
+    "End of Day": "13"
+  },
+  {
+    "Date": "07/25/2022",
+    "Initials": "NM",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "0",
+    "End of Day": "12"
+  },
+  {
+    "Date": "07/25/2022",
+    "Initials": "NM",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "30",
+    "Packages": "30",
+    "HO Deliveries": "1",
+    "End of Day": "31"
+  },
+  {
+    "Date": "07/26/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "39",
+    "Packages": "42",
+    "HO Deliveries": "8",
+    "End of Day": "47"
+  },
+  {
+    "Date": "07/26/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "39",
+    "Packages": "40",
+    "HO Deliveries": "0",
+    "End of Day": "39"
+  },
+  {
+    "Date": "07/26/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "32",
+    "Packages": "33",
+    "HO Deliveries": "4",
+    "End of Day": "36"
+  },
+  {
+    "Date": "07/27/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "26",
+    "HO Deliveries": "5",
+    "End of Day": "30"
+  },
+  {
+    "Date": "07/27/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "27",
+    "HO Deliveries": "16",
+    "End of Day": "41"
+  },
+  {
+    "Date": "07/27/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "0",
+    "End of Day": "12"
+  },
+  {
+    "Date": "07/27/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "6",
+    "HO Deliveries": "0",
+    "End of Day": "6"
+  },
+  {
+    "Date": "07/28/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "18",
+    "Packages": "20",
+    "HO Deliveries": "0",
+    "End of Day": "18"
+  },
+  {
+    "Date": "07/28/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "56",
+    "End of Day": "75"
+  },
+  {
+    "Date": "07/28/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "22",
+    "Packages": "22",
+    "HO Deliveries": "3",
+    "End of Day": "25"
+  },
+  {
+    "Date": "07/29/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "33",
+    "Packages": "33",
+    "HO Deliveries": "7",
+    "End of Day": "40"
+  },
+  {
+    "Date": "07/29/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "13",
+    "HO Deliveries": "2",
+    "End of Day": "14"
+  },
+  {
+    "Date": "07/29/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "14"
+  },
+  {
+    "Date": "08/01/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "2",
+    "Packages": "6",
+    "HO Deliveries": "0",
+    "End of Day": "2"
+  },
+  {
+    "Date": "08/01/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "21",
+    "Packages": "22",
+    "HO Deliveries": "4",
+    "End of Day": "25"
+  },
+  {
+    "Date": "08/01/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "19",
+    "Packages": "19",
+    "HO Deliveries": "3",
+    "End of Day": "22"
+  },
+  {
+    "Date": "08/01/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "18",
+    "Packages": "18",
+    "HO Deliveries": "0",
+    "End of Day": "18"
+  },
+  {
+    "Date": "08/02/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "27",
+    "Packages": "27",
+    "HO Deliveries": "10",
+    "End of Day": "37"
+  },
+  {
+    "Date": "08/02/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "24",
+    "HO Deliveries": "0",
+    "End of Day": "23"
+  },
+  {
+    "Date": "08/02/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "35",
+    "Packages": "35",
+    "HO Deliveries": "8",
+    "End of Day": "43"
+  },
+  {
+    "Date": "08/03/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "9",
+    "Packages": "7",
+    "HO Deliveries": "0",
+    "End of Day": "9"
+  },
+  {
+    "Date": "08/03/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "14",
+    "End of Day": "26"
+  },
+  {
+    "Date": "08/03/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "20",
+    "Packages": "36",
+    "HO Deliveries": "0",
+    "End of Day": "20"
+  },
+  {
+    "Date": "08/03/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "2",
+    "End of Day": "19"
+  },
+  {
+    "Date": "08/04/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "31",
+    "HO Deliveries": "6",
+    "End of Day": "35"
+  },
+  {
+    "Date": "08/04/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "13",
+    "HO Deliveries": "1",
+    "End of Day": "13"
+  },
+  {
+    "Date": "08/04/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "16",
+    "HO Deliveries": "0",
+    "End of Day": "16"
+  },
+  {
+    "Date": "08/05/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "7",
+    "Packages": "7",
+    "HO Deliveries": "6",
+    "End of Day": "13"
+  },
+  {
+    "Date": "08/05/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "17",
+    "HO Deliveries": "47",
+    "End of Day": "63"
+  },
+  {
+    "Date": "08/05/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "2",
+    "End of Day": "25"
+  },
+  {
+    "Date": "08/08/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "10",
+    "Packages": "11",
+    "HO Deliveries": "40",
+    "End of Day": "50"
+  },
+  {
+    "Date": "08/08/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "6",
+    "HO Deliveries": "9",
+    "End of Day": "15"
+  },
+  {
+    "Date": "08/08/2022",
+    "Initials": "DL",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "20",
+    "Packages": "20",
+    "HO Deliveries": "0",
+    "End of Day": "20"
+  },
+  {
+    "Date": "08/09/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "28",
+    "Packages": "29",
+    "HO Deliveries": "3",
+    "End of Day": "31"
+  },
+  {
+    "Date": "08/09/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "08/10/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "62",
+    "Packages": "63",
+    "HO Deliveries": "38",
+    "End of Day": "100"
+  },
+  {
+    "Date": "08/10/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "28",
+    "Packages": "30",
+    "HO Deliveries": "2",
+    "End of Day": "30"
+  },
+  {
+    "Date": "08/10/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "21",
+    "End of Day": "21"
+  },
+  {
+    "Date": "08/11/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "53",
+    "Packages": "55",
+    "HO Deliveries": "41",
+    "End of Day": "94"
+  },
+  {
+    "Date": "08/11/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "8",
+    "Packages": "9",
+    "HO Deliveries": "1",
+    "End of Day": "9"
+  },
+  {
+    "Date": "08/11/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "8",
+    "End of Day": "12"
+  },
+  {
+    "Date": "08/11/2022",
+    "Initials": "DL",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "0",
+    "End of Day": "23"
+  },
+  {
+    "Date": "08/12/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "37",
+    "Packages": "39",
+    "HO Deliveries": "6",
+    "End of Day": "43"
+  },
+  {
+    "Date": "08/12/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "13",
+    "Packages": "13",
+    "HO Deliveries": "0",
+    "End of Day": "13"
+  },
+  {
+    "Date": "08/12/2022",
+    "Initials": "DL",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "0",
+    "End of Day": "10"
+  },
+  {
+    "Date": "08/15/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "3",
+    "Packages": "11",
+    "HO Deliveries": "0",
+    "End of Day": "3"
+  },
+  {
+    "Date": "08/15/2022",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "23",
+    "Packages": "27",
+    "HO Deliveries": "5",
+    "End of Day": "28"
+  },
+  {
+    "Date": "08/15/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "7",
+    "Packages": "8",
+    "HO Deliveries": "0",
+    "End of Day": "7"
+  },
+  {
+    "Date": "08/15/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "20",
+    "Packages": "22",
+    "HO Deliveries": "0",
+    "End of Day": "20"
+  },
+  {
+    "Date": "08/16/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "156",
+    "End of Day": "157"
+  },
+  {
+    "Date": "08/16/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "43",
+    "Packages": "47",
+    "HO Deliveries": "0",
+    "End of Day": "43"
+  },
+  {
+    "Date": "08/16/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "33",
+    "Packages": "35",
+    "HO Deliveries": "4",
+    "End of Day": "37"
+  },
+  {
+    "Date": "08/17/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "6",
+    "End of Day": "7"
+  },
+  {
+    "Date": "08/17/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "15",
+    "HO Deliveries": "25",
+    "End of Day": "39"
+  },
+  {
+    "Date": "08/17/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "30",
+    "Packages": "31",
+    "HO Deliveries": "5",
+    "End of Day": "35"
+  },
+  {
+    "Date": "08/18/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "16",
+    "Packages": "20",
+    "HO Deliveries": "54",
+    "End of Day": "70"
+  },
+  {
+    "Date": "08/18/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "24",
+    "Packages": "30",
+    "HO Deliveries": "0",
+    "End of Day": "24"
+  },
+  {
+    "Date": "08/18/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "26",
+    "Packages": "28",
+    "HO Deliveries": "4",
+    "End of Day": "30"
+  },
+  {
+    "Date": "08/19/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "4",
+    "Packages": "5",
+    "HO Deliveries": "10",
+    "End of Day": "14"
+  },
+  {
+    "Date": "08/19/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "42",
+    "HO Deliveries": "2",
+    "End of Day": "41"
+  },
+  {
+    "Date": "08/19/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "12",
+    "Packages": "14",
+    "HO Deliveries": "3",
+    "End of Day": "15"
+  },
+  {
+    "Date": "08/22/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "24",
+    "Packages": "25",
+    "HO Deliveries": "28",
+    "End of Day": "52"
+  },
+  {
+    "Date": "08/22/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "5",
+    "End of Day": "15"
+  },
+  {
+    "Date": "08/22/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "20",
+    "Packages": "21",
+    "HO Deliveries": "9",
+    "End of Day": "29"
+  },
+  {
+    "Date": "08/23/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "12",
+    "Packages": "12",
+    "HO Deliveries": "11",
+    "End of Day": "23"
+  },
+  {
+    "Date": "08/23/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "0",
+    "End of Day": "10"
+  },
+  {
+    "Date": "08/23/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "29",
+    "HO Deliveries": "1",
+    "End of Day": "28"
+  },
+  {
+    "Date": "08/24/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "24",
+    "Packages": "32",
+    "HO Deliveries": "22",
+    "End of Day": "46"
+  },
+  {
+    "Date": "08/24/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "40",
+    "End of Day": "55"
+  },
+  {
+    "Date": "08/24/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "10",
+    "Packages": "11",
+    "HO Deliveries": "14",
+    "End of Day": "24"
+  },
+  {
+    "Date": "08/24/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "8",
+    "End of Day": "9"
+  },
+  {
+    "Date": "08/24/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "22",
+    "End of Day": "37"
+  },
+  {
+    "Date": "08/25/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "25",
+    "HO Deliveries": "28",
+    "End of Day": "53"
+  },
+  {
+    "Date": "08/25/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "7",
+    "HO Deliveries": "1",
+    "End of Day": "7"
+  },
+  {
+    "Date": "08/25/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "14",
+    "HO Deliveries": "1",
+    "End of Day": "15"
+  },
+  {
+    "Date": "08/26/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "47",
+    "Packages": "49",
+    "HO Deliveries": "9",
+    "End of Day": "56"
+  },
+  {
+    "Date": "08/26/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "7",
+    "Packages": "7",
+    "HO Deliveries": "0",
+    "End of Day": "7"
+  },
+  {
+    "Date": "08/26/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "6",
+    "Packages": "6",
+    "HO Deliveries": "2",
+    "End of Day": "8"
+  },
+  {
+    "Date": "08/29/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "45",
+    "Packages": "50",
+    "HO Deliveries": "42",
+    "End of Day": "87"
+  },
+  {
+    "Date": "08/29/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "18",
+    "Packages": "21",
+    "HO Deliveries": "1",
+    "End of Day": "19"
+  },
+  {
+    "Date": "08/29/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "22",
+    "Packages": "22",
+    "HO Deliveries": "2",
+    "End of Day": "24"
+  },
+  {
+    "Date": "08/30/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "2",
+    "Packages": "9",
+    "HO Deliveries": "0",
+    "End of Day": "2"
+  },
+  {
+    "Date": "08/30/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "30",
+    "Packages": "30",
+    "HO Deliveries": "18",
+    "End of Day": "48"
+  },
+  {
+    "Date": "08/30/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "41",
+    "Packages": "41",
+    "HO Deliveries": "2",
+    "End of Day": "43"
+  },
+  {
+    "Date": "08/31/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "10",
+    "Packages": "10",
+    "HO Deliveries": "5",
+    "End of Day": "15"
+  },
+  {
+    "Date": "08/31/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "38",
+    "Packages": "43",
+    "HO Deliveries": "2",
+    "End of Day": "40"
+  },
+  {
+    "Date": "09/14/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "20",
+    "HO Deliveries": "6",
+    "End of Day": "23"
+  },
+  {
+    "Date": "09/01/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "8",
+    "HO Deliveries": "2",
+    "End of Day": "3"
+  },
+  {
+    "Date": "09/01/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "18",
+    "Packages": "19",
+    "HO Deliveries": "34",
+    "End of Day": "52"
+  },
+  {
+    "Date": "09/01/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "18",
+    "Packages": "19",
+    "HO Deliveries": "1",
+    "End of Day": "19"
+  },
+  {
+    "Date": "09/02/2022",
+    "Initials": "NM",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "26",
+    "Packages": "33",
+    "HO Deliveries": "22",
+    "End of Day": "48"
+  },
+  {
+    "Date": "09/06/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "53",
+    "Packages": "58",
+    "HO Deliveries": "6",
+    "End of Day": "59"
+  },
+  {
+    "Date": "09/06/2022",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "5",
+    "Packages": "6",
+    "HO Deliveries": "0",
+    "End of Day": "5"
+  },
+  {
+    "Date": "09/06/2022",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "2",
+    "Packages": "2",
+    "HO Deliveries": "0",
+    "End of Day": "2"
+  },
+  {
+    "Date": "09/07/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "46",
+    "HO Deliveries": "106",
+    "End of Day": "142"
+  },
+  {
+    "Date": "09/07/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "15",
+    "Packages": "15",
+    "HO Deliveries": "0",
+    "End of Day": "15"
+  },
+  {
+    "Date": "09/08/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "62",
+    "Packages": "75",
+    "HO Deliveries": "14",
+    "End of Day": "76"
+  },
+  {
+    "Date": "09/08/2022",
+    "Initials": "NM",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "41",
+    "Packages": "43",
+    "HO Deliveries": "3",
+    "End of Day": "44"
+  },
+  {
+    "Date": "09/09/2022",
+    "Initials": "LF",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "23",
+    "Packages": "24",
+    "HO Deliveries": "14",
+    "End of Day": "37"
+  },
+  {
+    "Date": "09/09/2022",
+    "Initials": "MS",
+    "Account": "E75806",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "16",
+    "HO Deliveries": "0",
+    "End of Day": "14"
+  },
+  {
+    "Date": "09/09/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "2",
+    "Packages": "2",
+    "HO Deliveries": "19",
+    "End of Day": "21"
+  },
+  {
+    "Date": "09/12/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "6",
+    "Packages": "6",
+    "HO Deliveries": "10",
+    "End of Day": "16"
+  },
+  {
+    "Date": "09/12/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "0",
+    "Packages": "0",
+    "HO Deliveries": "15",
+    "End of Day": "15"
+  },
+  {
+    "Date": "09/12/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "0",
+    "End of Day": "23"
+  },
+  {
+    "Date": "09/12/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "14",
+    "HO Deliveries": "13",
+    "End of Day": "27"
+  },
+  {
+    "Date": "09/13/2022",
+    "Initials": "LF",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "09/13/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "15",
+    "Packages": "16",
+    "HO Deliveries": "15",
+    "End of Day": "30"
+  },
+  {
+    "Date": "09/13/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "57",
+    "Packages": "58",
+    "HO Deliveries": "0",
+    "End of Day": "57"
+  },
+  {
+    "Date": "09/13/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "16",
+    "HO Deliveries": "2",
+    "End of Day": "18"
+  },
+  {
+    "Date": "09/14/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "2",
+    "Packages": "4",
+    "HO Deliveries": "0",
+    "End of Day": "2"
+  },
+  {
+    "Date": "09/14/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "9",
+    "Packages": "9",
+    "HO Deliveries": "8",
+    "End of Day": "17"
+  },
+  {
+    "Date": "09/14/2022",
+    "Initials": "NM",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "23",
+    "Packages": "26",
+    "HO Deliveries": "0",
+    "End of Day": "23"
+  },
+  {
+    "Date": "09/15/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "25",
+    "HO Deliveries": "0",
+    "End of Day": "25"
+  },
+  {
+    "Date": "09/19/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "41",
+    "Packages": "41",
+    "HO Deliveries": "6",
+    "End of Day": "47"
+  },
+  {
+    "Date": "09/20/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "16",
+    "Packages": "29",
+    "HO Deliveries": "10",
+    "End of Day": "26"
+  },
+  {
+    "Date": "09/21/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "26",
+    "Packages": "27",
+    "HO Deliveries": "14",
+    "End of Day": "40"
+  },
+  {
+    "Date": "09/22/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "79",
+    "Packages": "79",
+    "HO Deliveries": "20",
+    "End of Day": "99"
+  },
+  {
+    "Date": "09/23/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "36",
+    "Packages": "36",
+    "HO Deliveries": "7",
+    "End of Day": "43"
+  },
+  {
+    "Date": "09/23/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "50",
+    "Packages": "52",
+    "HO Deliveries": "0",
+    "End of Day": "50"
+  },
+  {
+    "Date": "09/23/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Night Shift",
+    "Shipments": "5",
+    "Packages": "6",
+    "HO Deliveries": "10",
+    "End of Day": "15"
+  },
+  {
+    "Date": "09/26/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "86",
+    "Packages": "86",
+    "HO Deliveries": "8",
+    "End of Day": "94"
+  },
+  {
+    "Date": "09/26/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "39",
+    "Packages": "39",
+    "HO Deliveries": "0",
+    "End of Day": "39"
+  },
+  {
+    "Date": "09/27/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "32",
+    "Packages": "40",
+    "HO Deliveries": "8",
+    "End of Day": "40"
+  },
+  {
+    "Date": "09/28/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "68",
+    "Packages": "68",
+    "HO Deliveries": "11",
+    "End of Day": "79"
+  },
+  {
+    "Date": "09/28/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "14",
+    "Packages": "14",
+    "HO Deliveries": "0",
+    "End of Day": "14"
+  },
+  {
+    "Date": "09/29/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "26",
+    "Packages": "26",
+    "HO Deliveries": "22",
+    "End of Day": "48"
+  },
+  {
+    "Date": "09/30/2022",
+    "Initials": "LF",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "49",
+    "Packages": "58",
+    "HO Deliveries": "52",
+    "End of Day": "101"
+  },
+  {
+    "Date": "10/02/2022",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "78",
+    "Packages": "78",
+    "HO Deliveries": "0",
+    "End of Day": "78"
+  },
+  {
+    "Date": "10/03/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "99",
+    "Packages": "102",
+    "HO Deliveries": "7",
+    "End of Day": "106"
+  },
+  {
+    "Date": "10/03/2022",
+    "Initials": "NS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "49",
+    "Packages": "49",
+    "HO Deliveries": "0",
+    "End of Day": "49"
+  },
+  {
+    "Date": "10/03/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "37",
+    "Packages": "40",
+    "HO Deliveries": "0",
+    "End of Day": "37"
+  },
+  {
+    "Date": "10/04/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "55",
+    "Packages": "67",
+    "HO Deliveries": "8",
+    "End of Day": "63"
+  },
+  {
+    "Date": "10/04/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "30",
+    "Packages": "32",
+    "HO Deliveries": "0",
+    "End of Day": "30"
+  },
+  {
+    "Date": "10/04/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "18",
+    "HO Deliveries": "0",
+    "End of Day": "17"
+  },
+  {
+    "Date": "10/05/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "52",
+    "Packages": "56",
+    "HO Deliveries": "11",
+    "End of Day": "63"
+  },
+  {
+    "Date": "10/05/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "16",
+    "Packages": "17",
+    "HO Deliveries": "0",
+    "End of Day": "16"
+  },
+  {
+    "Date": "10/05/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "4",
+    "Packages": "4",
+    "HO Deliveries": "0",
+    "End of Day": "4"
+  },
+  {
+    "Date": "10/06/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "36",
+    "HO Deliveries": "10",
+    "End of Day": "39"
+  },
+  {
+    "Date": "10/06/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "26",
+    "Packages": "27",
+    "HO Deliveries": "0",
+    "End of Day": "26"
+  },
+  {
+    "Date": "10/06/2022",
+    "Initials": "MS",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "25",
+    "Packages": "26",
+    "HO Deliveries": "0",
+    "End of Day": "25"
+  },
+  {
+    "Date": "10/07/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "57",
+    "Packages": "62",
+    "HO Deliveries": "65",
+    "End of Day": "122"
+  },
+  {
+    "Date": "10/09/2022",
+    "Initials": "LF",
+    "Account": "631240",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "46",
+    "Packages": "46",
+    "HO Deliveries": "0",
+    "End of Day": "46"
+  },
+  {
+    "Date": "10/09/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "126",
+    "Packages": "130",
+    "HO Deliveries": "0",
+    "End of Day": "126"
+  },
+  {
+    "Date": "10/10/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "98",
+    "Packages": "99",
+    "HO Deliveries": "14",
+    "End of Day": "112"
+  },
+  {
+    "Date": "10/10/2022",
+    "Initials": "MS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "9",
+    "Packages": "9",
+    "HO Deliveries": "0",
+    "End of Day": "9"
+  },
+  {
+    "Date": "10/11/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "4",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "10/11/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "39",
+    "Packages": "42",
+    "HO Deliveries": "7",
+    "End of Day": "46"
+  },
+  {
+    "Date": "10/12/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "10/13/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "2",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "10/13/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "23",
+    "Packages": "24",
+    "HO Deliveries": "21",
+    "End of Day": "44"
+  },
+  {
+    "Date": "10/14/2022",
+    "Initials": "NS",
+    "Account": "631240",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "1",
+    "Packages": "1",
+    "HO Deliveries": "0",
+    "End of Day": "1"
+  },
+  {
+    "Date": "10/14/2022",
+    "Initials": "NS",
+    "Account": "8319R6",
+    "Side": "Side 1",
+    "Shift": "Day Shift",
+    "Shipments": "23",
+    "Packages": "23",
+    "HO Deliveries": "47",
+    "End of Day": "70"
+  },
+  {
+    "Date": "10/17/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "25",
+    "Packages": "27",
+    "HO Deliveries": "31",
+    "End of Day": "56"
+  },
+  {
+    "Date": "10/18/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "103",
+    "Packages": "108",
+    "HO Deliveries": "8",
+    "End of Day": "111"
+  },
+  {
+    "Date": "10/18/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "33",
+    "Packages": "33",
+    "HO Deliveries": "0",
+    "End of Day": "33"
+  },
+  {
+    "Date": "10/18/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "31",
+    "Packages": "33",
+    "HO Deliveries": "0",
+    "End of Day": "31"
+  },
+  {
+    "Date": "10/19/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "67",
+    "Packages": "72",
+    "HO Deliveries": "10",
+    "End of Day": "77"
+  },
+  {
+    "Date": "10/19/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "17",
+    "HO Deliveries": "1",
+    "End of Day": "18"
+  },
+  {
+    "Date": "10/20/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "44",
+    "Packages": "49",
+    "HO Deliveries": "46",
+    "End of Day": "90"
+  },
+  {
+    "Date": "10/20/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "17",
+    "Packages": "18",
+    "HO Deliveries": "0",
+    "End of Day": "17"
+  },
+  {
+    "Date": "10/20/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "27",
+    "Packages": "28",
+    "HO Deliveries": "0",
+    "End of Day": "27"
+  },
+  {
+    "Date": "10/21/2022",
+    "Initials": "NS",
+    "Account": "E75806",
+    "Side": "Side 2",
+    "Shift": "Day Shift",
+    "Shipments": "29",
+    "Packages": "30",
+    "HO Deliveries": "6",
+    "End of Day": "35"
+  },
+  {
+    "Date": "10/21/2022",
+    "Initials": "MS",
+    "Account": "E75810",
+    "Side": "Side 1",
+    "Shift": "Night Shift",
+    "Shipments": "2",
+    "Packages": "2",
+    "HO Deliveries": "0",
+    "End of Day": "2"
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  },
+  {
+    "End of Day": ""
+  }
+]

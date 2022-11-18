@@ -1,13 +1,17 @@
 import { useEffect, useState, ChangeEvent } from 'react';
+import cData from '../../data/custom.json';
 
 // material-ui
 import { useTheme } from '@mui/material/styles';
 import {
    Box,
+   Card,
    Checkbox,
    FormControl,
    FormControlLabel,
    FormGroup,
+   Grid,
+   Paper,
    Stack,
    Typography,
    useMediaQuery,
@@ -36,7 +40,7 @@ const columnChartOptions = {
    },
    stroke: {
       show: true,
-      width: 8,
+      width: [4, 6],
    },
 
    yaxis: [
@@ -54,8 +58,14 @@ const columnChartOptions = {
    },
    tooltip: {
       y: {
-         formatter(val: number) {
-            return `$ ${val} thousands`;
+         formatter: function (value: number) {
+            if (value < 999) {
+               return value;
+            } else if (value > 999 && value < 999999) {
+               return Intl.NumberFormat().format(value / 1000) + ' K';
+            } else {
+               return Intl.NumberFormat().format(value / 1000000) + ' M';
+            }
          },
       },
    },
@@ -81,11 +91,11 @@ const DashboardCustom = () => {
    const mode = theme.palette.mode;
 
    const [legend, setLegend] = useState({
-      income: true,
-      cos: true,
+      Impressions: true,
+      Budget: true,
    });
 
-   const { income, cos } = legend;
+   const { Impressions, Budget } = legend;
 
    const { primary, secondary } = theme.palette.text;
    const line = theme.palette.divider;
@@ -96,14 +106,14 @@ const DashboardCustom = () => {
 
    const initialSeries = [
       {
-         name: 'Income',
+         name: 'Impressions',
          type: 'bar',
-         data: [180, 90, 135, 114, 120, 145],
+         data: cData.cdata.map((data) => data.impEnd),
       },
       {
-         name: 'Cost Of Sales',
+         name: 'Budget Actual',
          type: 'line',
-         data: [120, 45, 78, 150, 168, 99],
+         data: cData.cdata.map((data) => data.budget),
       },
    ];
 
@@ -117,113 +127,149 @@ const DashboardCustom = () => {
    const [options, setOptions] = useState<ChartProps>(columnChartOptions);
 
    useEffect(() => {
-      if (income && cos) {
+      if (Impressions && Budget) {
          setSeries(initialSeries);
-      } else if (income) {
+      } else if (Impressions) {
          setSeries([
             {
-               name: 'Income',
+               name: 'Impressions',
                type: 'bar',
-               data: [180, 90, 135, 114, 120, 145],
+               data: cData.cdata.map((data) => data.impEnd),
             },
          ]);
-      } else if (cos) {
+      } else if (Budget) {
          setSeries([
             {
-               name: 'Cost Of Sales',
+               name: 'Budget Actual',
                type: 'line',
-               data: [120, 45, 78, 150, 168, 99],
+               data: cData.cdata.map((data) => data.budget),
             },
          ]);
       } else {
          setSeries([]);
       }
       // eslint-disable-next-line react-hooks/exhaustive-deps
-   }, [income, cos]);
+   }, [Impressions, Budget]);
 
    useEffect(() => {
       setOptions((prevState) => ({
          ...prevState,
-         colors: !(income && cos) && cos ? [primaryMain] : [warning, primaryMain],
+         colors: !(Impressions && Budget) && Budget ? [primaryMain] : [warning, primaryMain],
          xaxis: {
-            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
+            categories: cData.cdata.map((data) => data.year),
             labels: {
                style: {
                   colors: [secondary, secondary, secondary, secondary, secondary, secondary],
                },
             },
          },
-         yaxis: [
-            {
-               labels: {
-                  style: {
-                     colors: [secondary],
-                  },
-                  formatter: function (value: number) {
-                     if (value < 1000) {
-                        return value;
-                     } else if (value > 999) {
-                        return Intl.NumberFormat().format(value / 1000) + 'K';
-                     }
-                  },
-               },
-            },
-            {
-               opposite: true,
-               labels: {
-                  style: {
-                     colors: [secondary],
-                  },
-                  formatter: function (value: number) {
-                     if (value < 1000) {
-                        return value;
-                     } else if (value > 999) {
-                        return Intl.NumberFormat().format(value / 1000) + 'K';
-                     }
-                  },
-               },
-            },
-         ],
+         yaxis: !(Impressions && Budget)
+            ? [
+                 {
+                    tickAmount: 6,
+                    labels: {
+                       style: {
+                          colors: [secondary],
+                       },
+                       formatter: function (value: number) {
+                          if (value < 999) {
+                             return value;
+                          } else if (value > 999 && value < 999999) {
+                             return Intl.NumberFormat().format(value / 1000) + 'K';
+                          } else {
+                             return Intl.NumberFormat().format(value / 1000000) + 'M';
+                          }
+                       },
+                    },
+                 },
+              ]
+            : [
+                 {
+                    tickAmount: 6,
+                    labels: {
+                       style: {
+                          colors: [secondary],
+                       },
+                       formatter: function (value: number) {
+                          if (value < 999) {
+                             return value;
+                          } else if (value > 999 && value < 999999) {
+                             return Intl.NumberFormat().format(value / 1000) + 'K';
+                          } else {
+                             return Intl.NumberFormat().format(value / 1000000) + 'M';
+                          }
+                       },
+                    },
+                 },
+                 {
+                    tickAmount: 6,
+                    opposite: true,
+                    labels: {
+                       style: {
+                          colors: [secondary],
+                       },
+                       formatter: function (value: number) {
+                          if (value < 999) {
+                             return value;
+                          } else if (value > 999 && value < 999999) {
+                             return Intl.NumberFormat().format(value / 1000) + ' K';
+                          } else {
+                             return Intl.NumberFormat().format(value / 1000000) + ' M';
+                          }
+                       },
+                    },
+                 },
+              ],
+
          grid: {
             borderColor: line,
+         },
+         markers: {
+            size: 4,
          },
          tooltip: {
             theme: mode === 'dark' ? 'dark' : 'light',
          },
-         /*plotOptions: {
+         plotOptions: {
             bar: {
                columnWidth: xsDown ? '60%' : '30%',
             },
-         },*/
+         },
       }));
-   }, [mode, primary, secondary, line, warning, primaryMain, successDark, income, cos, xsDown]);
+   }, [mode, primary, secondary, line, warning, primaryMain, successDark, Impressions, Budget, xsDown]);
 
    return (
-      <Box sx={{ p: 2.5, pb: 0 }}>
-         <Stack direction="row" alignItems="center" justifyContent="space-between">
-            <Stack spacing={1.5}>
+      <Grid container spacing={3}>
+         <Grid item xs={12} md={6} lg={6}>
+            <Stack direction="row" alignItems="center" justifyContent="space-between">
                <Typography variant="h6" color="secondary">
-                  Net Profit
+                  Budget vs. Volume
                </Typography>
-               <Typography variant="h4">$1560</Typography>
+               <FormControl component="fieldset">
+                  <FormGroup row>
+                     <FormControlLabel
+                        control={
+                           <Checkbox
+                              color="warning"
+                              checked={Impressions}
+                              onChange={handleLegendChange}
+                              name="Impressions"
+                           />
+                        }
+                        label="Impressions"
+                     />
+                     <FormControlLabel
+                        control={<Checkbox checked={Budget} onChange={handleLegendChange} name="Budget" />}
+                        label="Budget"
+                     />
+                  </FormGroup>
+               </FormControl>
             </Stack>
-            <FormControl component="fieldset">
-               <FormGroup row>
-                  <FormControlLabel
-                     control={<Checkbox color="warning" checked={income} onChange={handleLegendChange} name="income" />}
-                     label="Income"
-                  />
-                  <FormControlLabel
-                     control={<Checkbox checked={cos} onChange={handleLegendChange} name="cos" />}
-                     label="Cost of Sales"
-                  />
-               </FormGroup>
-            </FormControl>
-         </Stack>
-         <div id="chart">
-            <ReactApexChart options={options} series={series} type="line" height={360} />
-         </div>
-      </Box>
+            <div id="chart">
+               <ReactApexChart options={options} series={series} type="line" height={280} />
+            </div>
+         </Grid>
+      </Grid>
    );
 };
 

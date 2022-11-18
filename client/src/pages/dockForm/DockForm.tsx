@@ -29,7 +29,7 @@ const DockForm = () => {
    return (
       <Card variant={'outlined'}>
          <Grid container spacing={2} padding={'16px'}>
-            <Grid item xs={12} sm={6} padding={'16px'}>
+            <Grid item xs={12} sm={6}>
                <Card raised={true}>
                   <Paper>
                      <Grid container spacing={1} padding={'16px'}>
@@ -199,7 +199,7 @@ const DockForm = () => {
                                  Cancel
                               </Button>
                               <Button variant="contained" sx={{ textTransform: 'none' }}>
-                                 Add new Product
+                                 SUBMIT
                               </Button>
                            </Stack>
                         </Grid>

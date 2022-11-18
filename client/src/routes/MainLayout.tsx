@@ -26,7 +26,7 @@ const MainLayout = () => {
                <ErrorBoundary fallback={<div>Could Not Fetch Data</div>}>
                   <Suspense fallback={<div>Loading...</div>}>
                      <Container
-                        maxWidth={'xl'}
+                        maxWidth={sidebarOpen ? 'lg' : 'xl'}
                         sx={{
                            pt: '80px',
                            display: 'flex',
