@@ -1,274 +1,76 @@
-import { useEffect, useState, ChangeEvent } from 'react';
-import cData from '../../data/custom.json';
-import bwPrintData from '../../data/Omaha BW Print.json';
-
+import React from 'react';
 // material-ui
-import { useTheme } from '@mui/material/styles';
-import {
-   Box,
-   Card,
-   Checkbox,
-   FormControl,
-   FormControlLabel,
-   FormGroup,
-   Grid,
-   Paper,
-   Stack,
-   Typography,
-   useMediaQuery,
-} from '@mui/material';
-
-// third-party
-import ReactApexChart, { Props as ChartProps } from 'react-apexcharts';
-
-// chart options
-const columnChartOptions = {
-   chart: {
-      type: 'line',
-      height: 430,
-      toolbar: {
-         show: false,
-      },
-   },
-   plotOptions: {
-      bar: {
-         columnWidth: '30%',
-         borderRadius: 4,
-      },
-   },
-   dataLabels: {
-      enabled: false,
-   },
-   stroke: {
-      show: true,
-      width: [4, 6],
-   },
-
-   yaxis: [
-      {
-         title: {
-            text: '$ (thousands)',
-         },
-      },
-      {
-         opposite: true,
-      },
-   ],
-   fill: {
-      opacity: 1,
-   },
-   tooltip: {
-      y: {
-         formatter: function (value: number) {
-            if (value < 999) {
-               return value;
-            } else if (value > 999 && value < 999999) {
-               return Intl.NumberFormat().format(value / 1000) + ' K';
-            } else {
-               return Intl.NumberFormat().format(value / 1000000) + ' M';
-            }
-         },
-      },
-   },
-   legend: {
-      show: false,
-   },
-   responsive: [
-      {
-         breakpoint: 600,
-         options: {
-            yaxis: {
-               show: false,
-            },
-         },
-      },
-   ],
-};
-
-// ==============================|| SALES COLUMN CHART ||============================== //
+import { Box, Card, Grid, Typography } from '@mui/material';
+import TotalImpressions from './content/totalImpressions';
+import FulfillmentSales from './content/fulfillmentSales';
+import PrintWalkUpSales from './content/printWalkupSales';
+import CpvVsActual from './content/cpvVsActual';
+import BudgetVsVolume from './content/budgetVsVolume';
 
 const DashboardCustom = () => {
-   const theme = useTheme();
-   const mode = theme.palette.mode;
-
-   const [legend, setLegend] = useState({
-      Impressions: true,
-      Budget: true,
-   });
-
-   const { Impressions, Budget } = legend;
-
-   const { primary, secondary } = theme.palette.text;
-   const line = theme.palette.divider;
-
-   const warning = theme.palette.warning.main;
-   const primaryMain = theme.palette.primary.main;
-   const successDark = theme.palette.success.dark;
-
-   const initialSeries = [
-      {
-         name: 'Impressions',
-         type: 'bar',
-         data: cData.cdata.map((data) => data.impEnd),
-      },
-      {
-         name: 'Budget Actual',
-         type: 'line',
-         data: cData.cdata.map((data) => data.budget),
-      },
-   ];
-
-   const [series, setSeries] = useState(initialSeries);
-
-   const handleLegendChange = (event: ChangeEvent<HTMLInputElement>) => {
-      setLegend({ ...legend, [event.target.name]: event.target.checked });
-   };
-
-   const xsDown = useMediaQuery(theme.breakpoints.down('sm'));
-   const [options, setOptions] = useState<ChartProps>(columnChartOptions);
-
-   useEffect(() => {
-      if (Impressions && Budget) {
-         setSeries(initialSeries);
-      } else if (Impressions) {
-         setSeries([
-            {
-               name: 'Impressions',
-               type: 'bar',
-               data: cData.cdata.map((data) => data.impEnd),
-            },
-         ]);
-      } else if (Budget) {
-         setSeries([
-            {
-               name: 'Budget Actual',
-               type: 'line',
-               data: cData.cdata.map((data) => data.budget),
-            },
-         ]);
-      } else {
-         setSeries([]);
-      }
-      // eslint-disable-next-line react-hooks/exhaustive-deps
-   }, [Impressions, Budget]);
-
-   useEffect(() => {
-      setOptions((prevState) => ({
-         ...prevState,
-         colors: !(Impressions && Budget) && Budget ? [primaryMain] : [warning, primaryMain],
-         xaxis: {
-            categories: cData.cdata.map((data) => data.year),
-            labels: {
-               style: {
-                  colors: [secondary, secondary, secondary, secondary, secondary, secondary],
-               },
-            },
-         },
-         yaxis: !(Impressions && Budget)
-            ? [
-                 {
-                    tickAmount: 6,
-                    labels: {
-                       style: {
-                          colors: [secondary],
-                       },
-                       formatter: function (value: number) {
-                          if (value < 999) {
-                             return value;
-                          } else if (value > 999 && value < 999999) {
-                             return Intl.NumberFormat().format(value / 1000) + 'K';
-                          } else {
-                             return Intl.NumberFormat().format(value / 1000000) + 'M';
-                          }
-                       },
-                    },
-                 },
-              ]
-            : [
-                 {
-                    tickAmount: 6,
-                    labels: {
-                       style: {
-                          colors: [secondary],
-                       },
-                       formatter: function (value: number) {
-                          if (value < 999) {
-                             return value;
-                          } else if (value > 999 && value < 999999) {
-                             return Intl.NumberFormat().format(value / 1000) + 'K';
-                          } else {
-                             return Intl.NumberFormat().format(value / 1000000) + 'M';
-                          }
-                       },
-                    },
-                 },
-                 {
-                    tickAmount: 6,
-                    opposite: true,
-                    labels: {
-                       style: {
-                          colors: [secondary],
-                       },
-                       formatter: function (value: number) {
-                          if (value < 999) {
-                             return value;
-                          } else if (value > 999 && value < 999999) {
-                             return Intl.NumberFormat().format(value / 1000) + ' K';
-                          } else {
-                             return Intl.NumberFormat().format(value / 1000000) + ' M';
-                          }
-                       },
-                    },
-                 },
-              ],
-
-         grid: {
-            borderColor: line,
-         },
-         markers: {
-            size: 4,
-         },
-         tooltip: {
-            theme: mode === 'dark' ? 'dark' : 'light',
-         },
-         plotOptions: {
-            bar: {
-               columnWidth: xsDown ? '60%' : '30%',
-            },
-         },
-      }));
-   }, [mode, primary, secondary, line, warning, primaryMain, successDark, Impressions, Budget, xsDown]);
-
    return (
-      <Grid container spacing={3}>
-         <Grid item xs={12} md={6} lg={6}>
-            <Stack direction="row" alignItems="center" justifyContent="space-between">
-               <Typography variant="h6" color="secondary">
-                  Budget vs. Volume
-               </Typography>
-               <FormControl component="fieldset">
-                  <FormGroup row>
-                     <FormControlLabel
-                        control={
-                           <Checkbox
-                              color="warning"
-                              checked={Impressions}
-                              onChange={handleLegendChange}
-                              name="Impressions"
-                           />
-                        }
-                        label="Impressions"
-                     />
-                     <FormControlLabel
-                        control={<Checkbox checked={Budget} onChange={handleLegendChange} name="Budget" />}
-                        label="Budget"
-                     />
-                  </FormGroup>
-               </FormControl>
-            </Stack>
-            <div id="chart">
-               <ReactApexChart options={options} series={series} type="line" height={280} />
-            </div>
+      <Grid container rowSpacing={4.5} columnSpacing={2.75}>
+         {/* row 1 */}
+         <Grid item xs={12} sx={{ mb: -2.25 }}>
+            <Typography variant="h5">Dashboard</Typography>
+         </Grid>
+         <Grid item xs={12} sx={{ mb: -2.25 }}>
+            <Typography variant="body2">Year: 2022 vs 2021</Typography>
+         </Grid>
+         <Grid item xs={12} sm={6} md={4} lg={4}>
+            <TotalImpressions
+               title="Impressions"
+               count="15,524,426"
+               percentage={120}
+               color={'success'}
+               extra="2,498,743"
+            />
+         </Grid>
+         <Grid item xs={12} sm={6} md={4} lg={4}>
+            <FulfillmentSales
+               title="Fulfillment Sales"
+               count="$76,462"
+               percentage={384}
+               color={'success'}
+               extra="$56,569"
+            />
+         </Grid>
+         <Grid item xs={12} sm={6} md={4} lg={4}>
+            <PrintWalkUpSales
+               title="Print Walk-Up Sales"
+               count="$346,078"
+               percentage={27.4}
+               color="success"
+               extra="$238,393"
+            />
+         </Grid>
+
+         <Grid item xs={12} sm={6} md={4} lg={3}></Grid>
+         <Grid item md={8} sx={{ display: { sm: 'none', md: 'block', lg: 'none' } }} />
+         {/* row 2 */}
+         <Grid item xs={12} md={12} lg={12}>
+            <Grid container alignItems="center" justifyContent="space-between">
+               <Grid item>
+                  <Typography variant="body2">CPV vs Actual</Typography>
+               </Grid>
+            </Grid>
+            <Card sx={{ mt: 1.5 }}>
+               <Box sx={{ pt: 1, pr: 2 }}>
+                  <CpvVsActual />
+               </Box>
+            </Card>
+         </Grid>
+         {/*<Grid item xs={12} md={5} lg={4}>
+            <Grid container alignItems="center" justifyContent="space-between">
+               <Grid item>
+                  <Typography variant="h5"></Typography>
+               </Grid>
+               <Grid item />
+            </Grid>
+         </Grid>*/}
+         {/* row 3 */}
+         <Grid item xs={12} md={12} lg={12}>
+            <BudgetVsVolume />
          </Grid>
       </Grid>
    );
