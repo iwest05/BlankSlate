@@ -4,14 +4,13 @@ import DarkModeOutlinedIcon from '@mui/icons-material/DarkModeOutlined';
 import LightModeOutlinedIcon from '@mui/icons-material/LightModeOutlined';
 import { ColorModeContext } from '../../../theme/theme';
 
-
 const ThemeToggle = () => {
    const theme = useTheme();
    const colorMode = useContext(ColorModeContext);
-   const hover = theme.palette.mode === 'dark' ? 'grey.800': 'grey.400'
+   const hover = theme.palette.mode === 'dark' ? 'grey.800' : 'grey.400';
    return (
       <>
-         <Box pr={1}>
+         <Box>
             <IconButton
                onClick={colorMode.toggleColorMode}
                color={'secondary'}

@@ -1,6 +1,7 @@
-import { Box, Collapse, ListItemButton } from '@mui/material';
-import React, { ReactElement, useState } from 'react';
+import { Box, Collapse, IconButton, ListItemButton, Popper, useTheme } from '@mui/material';
+import React, { ReactElement, useContext, useState } from 'react';
 import { MdExpandLess, MdExpandMore } from 'react-icons/md';
+import { ColorModeContext } from '../../../theme/theme';
 
 type Props = {
    title: string;
@@ -9,12 +10,25 @@ type Props = {
 };
 
 const ListSection: React.FC<React.PropsWithChildren<Props>> = ({ title, icon, children, sidebarClosed }) => {
+   const theme = useTheme();
+   const hover = theme.palette.mode === 'dark' ? 'grey.800' : 'grey.400';
    const [toggleSection, setToggleSection] = useState(false);
    return (
       <>
          {!!sidebarClosed && (
-            <Box fontSize={'25px'} ml={'18px'} mt={'15px'} color={'secondary.main'}>
-               {icon}
+            <Box fontSize={'25px'} mt={'15px'}>
+               <IconButton
+                  color={'secondary'}
+                  sx={{
+                     borderRadius: 1,
+                     minWidth: '100%',
+                     '&:hover': {
+                        bgcolor: hover,
+                     },
+                  }}
+               >
+                  {icon}
+               </IconButton>
             </Box>
          )}
          {!sidebarClosed && (

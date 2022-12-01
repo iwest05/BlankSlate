@@ -26,7 +26,6 @@ const DockForm = () => {
    const shipmentsTooltip = 'TEST';
    const sealedTooltip = 'TEST';
    const deliveriesTooltip = 'TEST';
-   const packagesTooltip = 'TEST';
    return (
       <Card variant={'outlined'}>
          <Grid container spacing={2} padding={'16px'}>
@@ -52,7 +51,12 @@ const DockForm = () => {
                               </Tooltip>
                            </InputLabel>
 
-                           <TextField size={'small'} placeholder="Numbers only" fullWidth />
+                           <TextField
+                              size={'small'}
+                              placeholder="Numbers only"
+                              fullWidth
+                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
+                           />
                         </Grid>
                         <Grid item xs={12} sm={6}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8 }}>

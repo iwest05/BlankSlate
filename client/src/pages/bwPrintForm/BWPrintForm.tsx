@@ -62,7 +62,12 @@ const BWPrintForm = () => {
                               </Tooltip>
                            </InputLabel>
 
-                           <TextField size={'small'} placeholder="Printer 84" fullWidth />
+                           <TextField
+                              size={'small'}
+                              placeholder="Printer 84"
+                              fullWidth
+                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
+                           />
                         </Grid>
                         <Grid item xs={12} sm={3}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8 }}>

@@ -1,17 +1,25 @@
 import React from 'react';
-import { Box, Card, Chip, ChipProps, Grid, Stack, Typography } from '@mui/material';
+import { Box, Card, Chip, ChipProps, Color, Grid, PaletteColor, Stack, Typography, useTheme } from '@mui/material';
 import { AiOutlineRise, AiOutlineFall } from 'react-icons/ai';
+import { ChipPropsColorOverrides, ChipTypeMap } from '@mui/material/Chip/Chip';
+import { OverridableStringUnion } from '@mui/types';
 
 interface Props {
    title: string;
    count: string;
    percentage?: number;
    isLoss?: boolean;
-   color?: ChipProps['color'];
    extra: string;
 }
 
-const FulfillmentSales = ({ color = 'primary', title, count, percentage, isLoss, extra }: Props) => {
+const Index = ({ title, count, percentage, isLoss, extra }: Props) => {
+   let itemColor: OverridableStringUnion<'error' | 'success'>;
+   if (isLoss) {
+      itemColor = 'error';
+   } else {
+      itemColor = 'success';
+   }
+
    return (
       <Card>
          <Stack padding={'16px 16px 0px 16px'}>
@@ -27,7 +35,7 @@ const FulfillmentSales = ({ color = 'primary', title, count, percentage, isLoss,
                {percentage && (
                   <Grid item>
                      <Chip
-                        color={color}
+                        color={itemColor}
                         icon={
                            <>
                               {!isLoss && <AiOutlineRise style={{ fontSize: '0.75rem', color: 'inherit' }} />}
@@ -44,8 +52,11 @@ const FulfillmentSales = ({ color = 'primary', title, count, percentage, isLoss,
          </Stack>
          <Box sx={{ padding: '0px 16px 16px 16px' }}>
             <Typography variant="caption" color="textSecondary">
-               We're up{' '}
-               <Typography component="span" variant="caption" sx={{ color: `${color || 'primary'}.main` }}>
+               <>
+                  {!isLoss && `We're up `}
+                  {isLoss && `We're down `}
+               </>
+               <Typography component="span" variant="caption" sx={{ color: `${itemColor || 'primary'}.main` }}>
                   {extra}
                </Typography>{' '}
                this year
@@ -55,4 +66,4 @@ const FulfillmentSales = ({ color = 'primary', title, count, percentage, isLoss,
    );
 };
 
-export default FulfillmentSales;
+export default Index;

@@ -1,9 +1,10 @@
 import { useState, Suspense } from 'react';
 import Header from '../global/Header/Header';
 import Sidebar from '../global/Sidebar/Sidebar';
-import { Box, Container, Toolbar } from '@mui/material';
+import { Box, Container, Toolbar, useTheme } from '@mui/material';
 import { Outlet } from 'react-router-dom';
 import { ErrorBoundary } from 'react-error-boundary';
+import Lion from '../assets/Blue-Eye-Lion-iPhone-Wallpaper.jpg';
 
 const MainLayout = () => {
    const [sidebarOpen, setSidebarOpen] = useState(true);
@@ -20,7 +21,12 @@ const MainLayout = () => {
          <>
             <Box
                component={'main'}
-               sx={{ position: 'absolute', right: '0px', bgcolor: 'background.default', width: mainWidth, p: '24px' }}
+               sx={{
+                  position: 'absolute',
+                  right: '0px',
+                  width: mainWidth,
+                  p: '24px ',
+               }}
             >
                <Toolbar />
                <ErrorBoundary fallback={<div>Could Not Fetch Data</div>}>

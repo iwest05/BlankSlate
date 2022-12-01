@@ -1,13 +1,12 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 
 // material-ui
 import { useTheme } from '@mui/material/styles';
 
 // third-party
 import ReactApexChart, { Props as ChartProps } from 'react-apexcharts';
-import { Box, Typography } from '@mui/material';
 
-// chart options
+// ==============================|| CHART OPTIONS ||============================== //
 const areaChartOptions = {
    chart: {
       height: 450,
@@ -34,18 +33,17 @@ const areaChartOptions = {
    inverseOrder: true,
 };
 
-const actual = [44345, 39615, 57237, 63409, 63475, 58358, 66617, 82104, 91803, 100104, 72273, null];
-const cpv = [53459, 53448, 46472, 50898, 50898, 47542, 52221, 45747, 55727, 64584, 57021, 55126];
+interface Props {
+   data: ApexAxisChartSeries;
+}
 
-// ==============================|| INCOME AREA CHART ||============================== //
-
-const CpvVsActual = () => {
+function Index({ data }: Props) {
    const theme = useTheme();
    const mode = theme.palette.mode;
-
    const { primary, secondary } = theme.palette.text;
    const line = theme.palette.divider;
 
+   const [series] = useState([...data]);
    const [options, setOptions] = useState<ChartProps>(areaChartOptions);
 
    useEffect(() => {
@@ -85,8 +83,11 @@ const CpvVsActual = () => {
                formatter: function (value: number) {
                   if (value < 999) {
                      return value;
-                  } else if (value > 999 && value < 999999) {
+                  }
+                  if (value > 999 && value < 999999) {
                      return Intl.NumberFormat().format(value / 1000) + ' K';
+                  } else if (value > 999999) {
+                     return Intl.NumberFormat().format(value / 100000) + ' M';
                   }
                },
             },
@@ -109,31 +110,7 @@ const CpvVsActual = () => {
       }));
    }, [mode, primary, secondary, line, theme]);
 
-   const [series, setSeries] = useState([
-      {
-         name: 'Actual',
-         data: actual.map((data) => data),
-      },
-      {
-         name: 'CPV',
-         data: cpv.map((data) => data),
-      },
-   ]);
+   return <ReactApexChart options={options} series={series} type={'area'} height={350} />;
+}
 
-   useEffect(() => {
-      setSeries([
-         {
-            name: 'Actual',
-            data: actual.map((data) => data),
-         },
-         {
-            name: 'CPV',
-            data: cpv.map((data) => data),
-         },
-      ]);
-   }, []);
-
-   return <ReactApexChart options={options} series={series} type="area" height={450} />;
-};
-
-export default CpvVsActual;
+export default Index;
