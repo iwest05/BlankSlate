@@ -1,10 +1,10 @@
-import { useState, Suspense } from 'react';
+import { useState, Suspense, lazy } from 'react';
 import Header from '../global/Header/Header';
 import Sidebar from '../global/Sidebar/Sidebar';
 import { Box, Container, Toolbar, useTheme } from '@mui/material';
 import { Outlet } from 'react-router-dom';
 import { ErrorBoundary } from 'react-error-boundary';
-import Lion from '../assets/Blue-Eye-Lion-iPhone-Wallpaper.jpg';
+const CustomDashboard = lazy(() => import('../pages/dashboards/dashboardCustom/DashboardCustom'));
 
 const MainLayout = () => {
    const [sidebarOpen, setSidebarOpen] = useState(true);

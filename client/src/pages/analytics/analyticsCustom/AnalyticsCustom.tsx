@@ -1,15 +1,15 @@
 import React from 'react';
 import { Box, Card, Grid, Typography } from '@mui/material';
-import { impression } from '../../data/customData/impression';
+import { impression } from '../../../data/customData/impression';
 import Index from './content';
-import { leadHours } from '../../data/customData/leadHours';
-import { jobCounts } from '../../data/customData/jobCounts';
-import { colorImpressions } from '../../data/customData/colorImpressions';
-import { bwImpressions } from '../../data/customData/bwImpressions';
-import { uspsMail } from '../../data/customData/uspsMail';
-import { dockDeliveries } from '../../data/customData/dockDeliveries';
-import { printWalkups } from '../../data/customData/printWalkups';
-import { fulfillmentSales } from '../../data/customData/fullfillmentSales';
+import { leadHours } from '../../../data/customData/leadHours';
+import { jobCounts } from '../../../data/customData/jobCounts';
+import { colorImpressions } from '../../../data/customData/colorImpressions';
+import { bwImpressions } from '../../../data/customData/bwImpressions';
+import { uspsMail } from '../../../data/customData/uspsMail';
+import { dockDeliveries } from '../../../data/customData/dockDeliveries';
+import { printWalkups } from '../../../data/customData/printWalkups';
+import { fulfillmentSales } from '../../../data/customData/fullfillmentSales';
 
 const AnalyticsCustom = () => {
    return (

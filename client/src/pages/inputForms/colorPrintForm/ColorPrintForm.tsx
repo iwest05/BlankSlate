@@ -1,21 +1,13 @@
 import React from 'react';
-import {
-   Box,
-   Button,
-   Card,
-   CardContent,
-   Divider,
-   Grid,
-   Icon,
-   InputLabel,
-   Paper,
-   Stack,
-   TextField,
-   Tooltip,
-   Typography,
-} from '@mui/material';
-import { IoCloudUploadOutline, IoInformationCircleSharp } from 'react-icons/io5';
-import BasicDatePicker from '../../components/DatePicker';
+import { Box, Button, Card, Divider, Grid, InputLabel, Paper, Stack, Tooltip, Typography } from '@mui/material';
+import { IoInformationCircleSharp } from 'react-icons/io5';
+import BasicDatePicker from '../../../components/DatePicker';
+
+import { CustomTextField } from '../../../theme/overrides/TextField';
+
+/*const CustomTextField = styled((props: TextFieldProps)=> (
+  <TextField
+))*/
 
 const DockForm = () => {
    const meterTooltip = 'TEST';
@@ -29,7 +21,7 @@ const DockForm = () => {
    return (
       <Card variant={'outlined'}>
          <Grid container spacing={2} padding={'16px'}>
-            <Grid item xs={12} sm={6}>
+            <Grid item md={6}>
                <Card raised={true}>
                   <Paper>
                      <Grid container spacing={1} padding={'16px'}>
@@ -41,7 +33,7 @@ const DockForm = () => {
                         </Grid>
                      </Grid>
                      <Grid container spacing={1} padding={'16px'}>
-                        <Grid item xs={12} sm={6}>
+                        <Grid item lg={6}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8, pr: '10px' }}>
                               Color:{' '}
                               <Tooltip title={meterTooltip} placement="top">
@@ -51,14 +43,9 @@ const DockForm = () => {
                               </Tooltip>
                            </InputLabel>
 
-                           <TextField
-                              size={'small'}
-                              placeholder="Numbers only"
-                              fullWidth
-                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
-                           />
+                           <CustomTextField />
                         </Grid>
-                        <Grid item xs={12} sm={6}>
+                        <Grid item lg={6}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8 }}>
                               Black:{' '}
                               <Tooltip title={satoriTooltip} placement="top">
@@ -67,14 +54,9 @@ const DockForm = () => {
                                  </span>
                               </Tooltip>
                            </InputLabel>
-                           <TextField
-                              size={'small'}
-                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
-                              placeholder="Numbers only"
-                              fullWidth
-                           />
+                           <CustomTextField />
                         </Grid>
-                        <Grid item xs={12} sm={6}>
+                        <Grid item lg={6}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8 }}>
                               L Color:{' '}
                               <Tooltip title={moneyTooltip} placement="top">
@@ -83,14 +65,9 @@ const DockForm = () => {
                                  </span>
                               </Tooltip>
                            </InputLabel>
-                           <TextField
-                              size={'small'}
-                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
-                              placeholder="Numbers only"
-                              fullWidth
-                           />
+                           <CustomTextField />
                         </Grid>
-                        <Grid item xs={12} sm={6}>
+                        <Grid item lg={6}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8 }}>
                               XL Color:{' '}
                               <Tooltip title={stampsTooltip} placement="top">
@@ -99,18 +76,13 @@ const DockForm = () => {
                                  </span>
                               </Tooltip>
                            </InputLabel>
-                           <TextField
-                              size={'small'}
-                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
-                              placeholder="Numbers only"
-                              fullWidth
-                           />
+                           <CustomTextField />
                         </Grid>
                      </Grid>
                   </Paper>
                </Card>
             </Grid>
-            <Grid item xs={12} sm={6}>
+            <Grid item md={6}>
                <Card raised={true}>
                   <Paper>
                      <Grid container spacing={1} padding={'16px'}>
@@ -122,7 +94,7 @@ const DockForm = () => {
                         </Grid>
                      </Grid>
                      <Grid container spacing={1} padding={'16px'}>
-                        <Grid item xs={12} sm={6}>
+                        <Grid item lg={6}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8 }}>
                               Color:{' '}
                               <Tooltip title={inboundTooltip} placement="top">
@@ -131,14 +103,9 @@ const DockForm = () => {
                                  </span>
                               </Tooltip>
                            </InputLabel>
-                           <TextField
-                              size={'small'}
-                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
-                              placeholder="Numbers only"
-                              fullWidth
-                           />
+                           <CustomTextField />
                         </Grid>
-                        <Grid item xs={12} sm={6}>
+                        <Grid item lg={6}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8 }}>
                               Black:{' '}
                               <Tooltip title={shipmentsTooltip} placement="top">
@@ -147,14 +114,9 @@ const DockForm = () => {
                                  </span>
                               </Tooltip>
                            </InputLabel>
-                           <TextField
-                              size={'small'}
-                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
-                              placeholder="Numbers only"
-                              fullWidth
-                           />
+                           <CustomTextField />
                         </Grid>
-                        <Grid item xs={12} sm={6}>
+                        <Grid item lg={6}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8 }}>
                               L Color:{' '}
                               <Tooltip title={sealedTooltip} placement="top">
@@ -163,14 +125,9 @@ const DockForm = () => {
                                  </span>
                               </Tooltip>
                            </InputLabel>
-                           <TextField
-                              size={'small'}
-                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
-                              placeholder="Numbers only"
-                              fullWidth
-                           />
+                           <CustomTextField />
                         </Grid>
-                        <Grid item xs={12} sm={6}>
+                        <Grid item lg={6}>
                            <InputLabel sx={{ mb: 1, opacity: 0.8 }}>
                               XL Color:{' '}
                               <Tooltip title={deliveriesTooltip} placement="top">
@@ -179,12 +136,7 @@ const DockForm = () => {
                                  </span>
                               </Tooltip>
                            </InputLabel>
-                           <TextField
-                              size={'small'}
-                              sx={{ '& .MuiOutlinedInput-input': { opacity: 0.6 } }}
-                              placeholder="Numbers only"
-                              fullWidth
-                           />
+                           <CustomTextField />
                         </Grid>
                      </Grid>
                   </Paper>
@@ -193,19 +145,26 @@ const DockForm = () => {
          </Grid>
 
          <Grid container spacing={1} padding={'8px 16px 16px 16px'}>
-            <Grid item xs={12} sm={12}>
+            <Grid item sm={12}>
                <Paper>
-                  <Grid container spacing={1} padding={'16px'}>
-                     <Grid item xs={12} sm={12}>
-                        <Stack direction="row" spacing={2} justifyContent="center" alignItems="center">
-                           <Button variant="outlined" color="secondary" onClick={() => alert()}>
-                              Cancel
-                           </Button>
-                           <Button variant="contained" sx={{ textTransform: 'none' }}>
-                              SUBMIT
-                           </Button>
-                        </Stack>
-                     </Grid>
+                  <Grid
+                     container
+                     spacing={1}
+                     padding={'16px'}
+                     direction="row"
+                     justifyContent="center"
+                     alignItems="center"
+                  >
+                     <Box pr={1}>
+                        <Button variant="outlined" color="secondary" onClick={() => alert()}>
+                           Cancel
+                        </Button>
+                     </Box>
+                     <Box pl={1}>
+                        <Button variant="contained" sx={{ textTransform: 'none' }}>
+                           SUBMIT
+                        </Button>
+                     </Box>
                   </Grid>
                </Paper>
             </Grid>

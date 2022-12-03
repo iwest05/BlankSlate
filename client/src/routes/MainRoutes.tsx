@@ -1,19 +1,19 @@
 import MainLayout from './MainLayout';
 import { lazy } from 'react';
 
-const CustomDashboard = lazy(() => import('../pages/dashboardCustom/DashboardCustom'));
-const TransationalDashboard = lazy(() => import('../pages/dashboardTransactional/DashboardTransactional'));
-const CustomanAlytics = lazy(() => import('../pages/analyticsCustom/AnalyticsCustom'));
-const TransationalAnalytics = lazy(() => import('../pages/analyticsTransactional/AnalyticsTransactional'));
-const BlackAnWhitePrintForm = lazy(() => import('../pages/bwPrintForm/BWPrintForm'));
-const ColorForm = lazy(() => import('../pages/colorPrintForm/ColorPrintForm'));
-const ShippingForm = lazy(() => import('../pages/shippingForm/ShippingForm'));
-const DockForm = lazy(() => import('../pages/dockForm/DockForm'));
-const TransactionalPrintForm = lazy(() => import('../pages/transactionalPrintForm/TransactionalPrintForm'));
-const TransationalMainForm = lazy(() => import('../pages/transactionalMailForm/TransactionalMailForm'));
-const DockOrders = lazy(() => import('../pages/dockOrders/DockOrders'));
-const PrintOrders = lazy(() => import('../pages/printOrders/PrintOrders'));
-const FulfillmentOrders = lazy(() => import('../pages/fulfillmentOrders/FulfillmentOrders'));
+const CustomDashboard = lazy(() => import('../pages/dashboards/dashboardCustom/DashboardCustom'));
+const TransationalDashboard = lazy(() => import('../pages/dashboards/dashboardTransactional/DashboardTransactional'));
+const CustomanAlytics = lazy(() => import('../pages/analytics/analyticsCustom/AnalyticsCustom'));
+const TransationalAnalytics = lazy(() => import('../pages/analytics/analyticsTransactional/AnalyticsTransactional'));
+const BlackAnWhitePrintForm = lazy(() => import('../pages/inputForms/bwPrintForm/BWPrintForm'));
+const ColorForm = lazy(() => import('../pages/inputForms/colorPrintForm/ColorPrintForm'));
+const ShippingForm = lazy(() => import('../pages/inputForms/shippingForm/ShippingForm'));
+const DockForm = lazy(() => import('../pages/inputForms/dockForm/DockForm'));
+const TransactionalPrintForm = lazy(() => import('../pages/inputForms/transactionalPrintForm/TransactionalPrintForm'));
+const TransationalMainForm = lazy(() => import('../pages/inputForms/transactionalMailForm/TransactionalMailForm'));
+const DockOrders = lazy(() => import('../pages/inputForms/dockOrders/DockOrders'));
+const PrintOrders = lazy(() => import('../pages/inputForms/printOrders/PrintOrders'));
+const FulfillmentOrders = lazy(() => import('../pages/inputForms/fulfillmentOrders/FulfillmentOrders'));
 
 const MainRoutes = {
    path: '/',

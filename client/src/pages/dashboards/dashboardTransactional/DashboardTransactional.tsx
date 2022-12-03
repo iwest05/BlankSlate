@@ -1,17 +1,15 @@
-import React, { useEffect, useState, ChangeEvent } from 'react';
-import cData from '../../../data/custom.json';
+import { useEffect, useState, ChangeEvent } from 'react';
+import tData from '../../../data/transactional.json';
 
 // material-ui
 import { useTheme } from '@mui/material/styles';
 import {
    Box,
-   Card,
    Checkbox,
    FormControl,
    FormControlLabel,
    FormGroup,
    Grid,
-   Paper,
    Stack,
    Typography,
    useMediaQuery,
@@ -70,9 +68,7 @@ const columnChartOptions = {
       },
    },
    legend: {
-      labels: {
-         colors: ['secondary.main'],
-      },
+      show: false,
    },
    responsive: [
       {
@@ -88,7 +84,7 @@ const columnChartOptions = {
 
 // ==============================|| SALES COLUMN CHART ||============================== //
 
-const BudgetVsVolume = () => {
+const DashboardCustom = () => {
    const theme = useTheme();
    const mode = theme.palette.mode;
 
@@ -110,12 +106,12 @@ const BudgetVsVolume = () => {
       {
          name: 'Impressions',
          type: 'bar',
-         data: cData.cdata.map((data) => data.impEnd),
+         data: tData.tdata.map((data) => data.impEnd),
       },
       {
          name: 'Budget Actual',
          type: 'line',
-         data: cData.cdata.map((data) => data.budget),
+         data: tData.tdata.map((data) => data.budget),
       },
    ];
 
@@ -136,7 +132,7 @@ const BudgetVsVolume = () => {
             {
                name: 'Impressions',
                type: 'bar',
-               data: cData.cdata.map((data) => data.impEnd),
+               data: tData.tdata.map((data) => data.impEnd),
             },
          ]);
       } else if (Budget) {
@@ -144,7 +140,7 @@ const BudgetVsVolume = () => {
             {
                name: 'Budget Actual',
                type: 'line',
-               data: cData.cdata.map((data) => data.budget),
+               data: tData.tdata.map((data) => data.budget),
             },
          ]);
       } else {
@@ -158,7 +154,7 @@ const BudgetVsVolume = () => {
          ...prevState,
          colors: !(Impressions && Budget) && Budget ? [primaryMain] : [warning, primaryMain],
          xaxis: {
-            categories: cData.cdata.map((data) => data.year),
+            categories: tData.tdata.map((data) => data.year),
             labels: {
                style: {
                   colors: [secondary, secondary, secondary, secondary, secondary, secondary],
@@ -222,7 +218,6 @@ const BudgetVsVolume = () => {
                     },
                  },
               ],
-
          grid: {
             borderColor: line,
          },
@@ -242,40 +237,37 @@ const BudgetVsVolume = () => {
 
    return (
       <Grid container spacing={3}>
-         <Grid item xs={12} md={8} lg={8}>
-            <Box display={'flex'} justifyContent={'space-between'}>
-               <Box alignSelf={'center'}>
-                  <Typography variant="body2">Budget vs Volume</Typography>
-               </Box>
-               <Box display="flex" justifyContent="flex-end">
-                  <FormControl component="fieldset">
-                     <FormGroup row>
-                        <FormControlLabel
-                           control={
-                              <Checkbox
-                                 color="warning"
-                                 checked={Impressions}
-                                 size={'small'}
-                                 onChange={handleLegendChange}
-                                 name="Impressions"
-                              />
-                           }
-                           label={<Typography variant={'body2'}>Impressions</Typography>}
-                        />
-                        <FormControlLabel
-                           control={
-                              <Checkbox checked={Budget} size={'small'} onChange={handleLegendChange} name="Budget" />
-                           }
-                           label={<Typography variant={'body2'}>Budget</Typography>}
-                        />
-                     </FormGroup>
-                  </FormControl>
-               </Box>
-            </Box>
-            <ReactApexChart options={options} series={series} type="line" height={280} />
+         <Grid item xs={12} md={6} lg={6}>
+            <Stack direction="row" alignItems="center" justifyContent="space-between">
+               <Typography variant="h6" color="secondary">
+                  Budget vs. Volume
+               </Typography>
+               <FormControl component="fieldset">
+                  <FormGroup row>
+                     <FormControlLabel
+                        control={
+                           <Checkbox
+                              color="warning"
+                              checked={Impressions}
+                              onChange={handleLegendChange}
+                              name="Impressions"
+                           />
+                        }
+                        label="Impressions"
+                     />
+                     <FormControlLabel
+                        control={<Checkbox checked={Budget} onChange={handleLegendChange} name="Budget" />}
+                        label="Budget"
+                     />
+                  </FormGroup>
+               </FormControl>
+            </Stack>
+            <div id="chart">
+               <ReactApexChart options={options} series={series} type="line" height={280} />
+            </div>
          </Grid>
       </Grid>
    );
 };
 
-export default BudgetVsVolume;
+export default DashboardCustom;

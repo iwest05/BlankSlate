@@ -17,6 +17,9 @@ const Search = () => {
                '&:hover': {
                   borderColor: theme.palette.mode === 'dark' ? 'blue.400' : 'blue.400',
                },
+               '&:focused': {
+                  borderColor: 'primary.main',
+               },
             }}
          >
             <IconButton type={'button'} sx={{ p: 1 }}>

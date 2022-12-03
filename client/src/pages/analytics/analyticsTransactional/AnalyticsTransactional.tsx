@@ -1,12 +1,12 @@
 import React from 'react';
 import { Box, Card, Grid, Typography } from '@mui/material';
 import Index from './content';
-import { transImpressions } from '../../data/transactionalData/transImpressions';
-import { envelopes } from '../../data/transactionalData/envelopes';
-import { flats } from '../../data/transactionalData/flats';
-import { halfFolds } from '../../data/transactionalData/halfFolds';
-import { overSided } from '../../data/transactionalData/overSided';
-import { triFolds } from '../../data/transactionalData/triFolds';
+import { transImpressions } from '../../../data/transactionalData/transImpressions';
+import { envelopes } from '../../../data/transactionalData/envelopes';
+import { flats } from '../../../data/transactionalData/flats';
+import { halfFolds } from '../../../data/transactionalData/halfFolds';
+import { overSided } from '../../../data/transactionalData/overSided';
+import { triFolds } from '../../../data/transactionalData/triFolds';
 
 const AnalyticsTransactional = () => {
    return (

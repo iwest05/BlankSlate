@@ -12,7 +12,7 @@ interface Props {
    extra: string;
 }
 
-const Index = ({ title, count, percentage, isLoss, extra }: Props) => {
+const InfoCard = ({ title, count, percentage, isLoss, extra }: Props) => {
    let itemColor: OverridableStringUnion<'error' | 'success'>;
    if (isLoss) {
       itemColor = 'error';
@@ -66,4 +66,4 @@ const Index = ({ title, count, percentage, isLoss, extra }: Props) => {
    );
 };
 
-export default Index;
+export default InfoCard;

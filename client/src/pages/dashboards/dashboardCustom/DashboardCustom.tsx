@@ -1,7 +1,7 @@
 import React from 'react';
 // material-ui
 import { Box, Card, Grid, Typography } from '@mui/material';
-import Index from './content/Index';
+import InfoCard from './content/infoCard';
 import CpvVsActual from './content/cpvVsActual';
 import BudgetVsVolume from './content/budgetVsVolume';
 
@@ -17,13 +17,13 @@ const DashboardCustom = () => {
                <Typography variant="body2">Year: 2022 vs 2021</Typography>
             </Grid>
             <Grid item xs={12} sm={6} md={4} lg={4}>
-               <Index title="Impressions" count="15,524,426" percentage={120} extra="2,498,743" />
+               <InfoCard title="Impressions" count="15,524,426" percentage={120} extra="2,498,743" />
             </Grid>
             <Grid item xs={12} sm={6} md={4} lg={4}>
-               <Index title="Fulfillment Sales" count="$76,462" percentage={384} extra="$56,569" />
+               <InfoCard title="Fulfillment Sales" count="$76,462" percentage={384} extra="$56,569" />
             </Grid>
             <Grid item xs={12} sm={6} md={4} lg={4}>
-               <Index title="Print Walk-Up Sales" count="$346,078" percentage={27.4} extra="$238,393" />
+               <InfoCard title="Print Walk-Up Sales" count="$346,078" percentage={27.4} extra="$238,393" />
             </Grid>
 
             <Grid item xs={12} sm={6} md={4} lg={3}></Grid>
